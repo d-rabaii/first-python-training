@@ -1,0 +1,576 @@
+Zonal office,Company,Incident date,Contaminant,Estimated quantity,Quantity recovered,Type of facility,Cause,FID,Site location name,Latitude,Longitude,LGA,Spill area habitat,States affected,TYPE_1
+ph,SPDC,12/18/2022,cr,267.71,,pl,sab,0,"20"" Rumuekpe-Nkpoku TNP at Ibaa",4.9551306,6.7914111,Emuoha,la,RI,State
+ph,SPDC,11/30/2022,cr,353,6,pl,sab,1,"24"" Nkpoku-Bomu Trunkline at Egbalor",4.7836167,7.1906111,Eleme,"la,ss",RI,State
+wa,NPDC,11/26/2022,cr,230,122.6,pl,cor,2,10'' OGHAREFE - AMUKPE EXPORT PIPELINE OML 98,5.8659633,5.6928328,Sapele,la,RI,State
+wa,Heritage,11/26/2022,cr,575,,pl,cor,3,28 TFP @ BATAN.,5.5625411,5.5517283,Warri-South,sw,RI,State
+wa,NDWEST,10/25/2022,cr,125,,wh,sab,4,WELL 5 AT UGBODEDE,5.5260181,5.673681,Warri-South,sw,DE,State
+by,NAOC,9/18/2022,cr,150,,pl,sab,5,18'' OBAMA/BRASS PIPELINE AT TEREKE,4.5770278,6.2761944,Nembe,sw,BY,State
+ph,SPDC,8/25/2022,cr,103,103,pl,cor,6,"28"" Nkpoku-Bomu PL at Bodo, Gokana LGA, Rivers State",4.6292,7.2767,Gokana,,RI,State
+by,NAOC,8/11/2022,cr,204.39,94,pl,sab,7,18'' OBAMAM/BRASS PIPELINE AT TEREKE,4.5744167,6.2749722,Nembe,sw,BY,State
+by,NAOC,8/1/2022,cr,201,187,pl,sab,8,24'' OGODA/BRASS PIPELINE AT ETIAMA,4.5788889,6.3823611,Nembe,sw,BY,State
+ph,Eroton E&P,7/10/2022,cr,6161.06,2642,wh,sab,9,Cawthorne Channel II Well 47,4.55943,7.01012,Degema,"iw,la,sw",RI,State
+ph,NAOC,6/29/2022,cr,115.14,15,pl,sab,10,"24"" Ogoda/Brass pipeline @ Oshika community AWELGA, Rivers State.",5.0844167,6.5614167,Ahoada-West,ss,RI,State
+ph,Eroton E&P,6/15/2022,cr,3741,2641,wh,sab,11,CAWC1 WELL 15 WELL HEAD,4.5446944,7.0428889,Degema,"iw,co",RI,State
+wa,NPDC,5/17/2022,cr,175,100,pl,sab,12,10'' NPDC OML 98 OGHAREFE - AMUKPE EXPORT LINE ROW,5.9259164,5.7043092,Ethiope-West,ss,DE,State
+wa,NPDC,5/10/2022,cr,128,125,pl,sab,13,10'' OREDO EXPORT LINE AT OLOGBO,6.0696033,5.6106567,Ikpoba-Okha,la,ED,State
+wa,NDWEST,5/3/2022,cr,488.8,122.2,pl,sab,14,10'' UTOROGU UPS DELIVERY LINE AT OTOR-EDO,5.4760778,5.9021472,Ughelli-South,sw,DE,State
+wa,Heritage,3/9/2022,cr,424,384,pl,eqf,15,16'' UZERE - ERIEMU TRUNKLINE @ IYEDE.,5.4991667,6.0836111,Isoko-North,la,DE,State
+by,NAOC,3/5/2022,cr,1250,,pl,sab,16,24'' OGUDA/BRASS PIPELINE AT NEMBE,4.51875,6.3635,Nembe,sw,BY,State
+wa,CONTINENTAL OIL AND GAS LIMITED,2/20/2022,cr,550,240,wh,sab,17,EKORKOR WELL 1 IN EKORKOR FIELD OML 150 @ EKORKOR/EROGHA,5.7105556,5.6711111,Okpe,sw,DE,State
+ph,SPDC,1/19/2022,cr,179,20,pl,sab,18,"20'' KOLOCREEK - RUMUEKPE PIPELINE, ODAU (KM 8), ABUA/ODUAL, RIVERS STATE",4.927203,6.430334,Ogbia,la,RI,State
+ph,SPDC,1/4/2022,cr,158,,pl,sab,19,"18'' ASSA-RUMUEKPE PIPELINE, RUMUEKPE, EMUOHA LGA, RIVERS STATE.",5.03132,6.70109,Emuoha,la,RI,State
+ph,SPDC,12/28/2021,cr,170,22,pl,sab,20,"20"" KOLO CREEK RUMUEKPE PIPELINE @ ODAU IN RIVERS STATE.",4.928101,6.435957,Ogbia,la,RI,State
+ph,Eroton E&P,12/1/2021,cr,804,,wh,sab,21,CAPTAIN- KIRI (AKASO WELL 7),4.5255278,7.0290278,Degema,,RI,State
+ph,SPDC,10/8/2021,cr,125,,pl,sab,22,14'' OKORDIA-RUMUEKPE PIPE LINE @ IHUOWO COMMUNITY,5.000856,6.662345,Ahoada-East,la,RI,State
+ph,Eroton E&P,10/7/2021,cr,3500,164,wh,ytd,23,"Orubiri Well7LS Wellhead @ Abila, in Alakiri District of R/S",4.686282,7.020571,Degema,ns,RI,State
+ph,SPDC,9/27/2021,cr,376,,pl,sab,24,"4"" Obele-Ibaa Delivery Line @ Ibaa.",4.9716,6.80431,Emuoha,la,RI,State
+uy,MPN,9/11/2021,cr,12400,,tf,eqf,25,Ibeno - QIT,4.5438889,8.0175,Ibeno,la,AK,State
+wa,Heritage,6/29/2021,cr,140,132,pl,sab,26,28'' TFP LINE AT OBOTOBO,5.3980556,5.37,Burutu,"sw,ss",DE,State
+ph,SPDC,5/30/2021,cr,103.68,,pl,sab,27,"16"" Egbema - Assa Pipeline @Obiakpu",5.52165,6.75923,Ohaji/Egbema,ss,IM,State
+ph,NAOC,5/10/2021,cr,564,,pl,sab,28,"18"" Ebocha- Ogoda Pipeline at Ubeta Community",5.1883056,6.5945556,Ogba/Egbema/Ndoni,la,RI,State
+ph,SPDC,4/27/2021,cr,292,45,pl,sab,29,16'' Egbema - Assa pipe Line @ Ekugba Community,5.49117,6.75558,Ohaji/Egbema,la,IM,State
+ph,NAOC,4/24/2021,cr,121,,pl,sab,30,"24"" OGODA - BRASS PIPELINE AT OSHIKA COMMUNITY AHOADA WEST, RIVERS STATE.",5.0728611,6.5568333,Ahoada-West,la,RI,State
+ph,SPDC,4/13/2021,cr,157,,pl,sab,31,"14"" Okordia-Rumuekpe Pipeline @ Ihuowo",4.9983333,6.6656944,Ahoada-East,la,RI,State
+ph,SPDC,3/11/2021,cr,211,,pl,sab,32,"8"" ISIMIRI-IMO GATE PIPELINE AT UMUELECHI",4.8798889,7.2225556,Ukwa-West,sw,AB,State
+ph,SPDC,2/13/2021,cr,463,18,pl,sab,33,"20"" KOLOCREEK-RUMUEKPE PIPELINE @ ODAU",4.9288889,6.4409444,Abua-Odual,la,RI,State
+ph,SPDC,1/9/2021,cr,149,63,pl,sab,34,"18"" Assa- Rumuekpe Pipeline, Minita, Elele Alimini.",5.0552,6.70306,Emuoha,la,RI,State
+wa,NPDC,1/8/2021,cr,1000,,other:illegal bunkery activies,sab,35,ILLEGAL BUNKERY POINT @ OPUAMA.,5.9579564,5.0536333,Warri-North,"sw,ss",DE,State
+wa,NDWEST,12/2/2020,cr,100,,other:Around 10'' Deliveryline,sab,36,AROUND 10'' DELIVERY LINE AT KM 8 UGHEVWUGHE,5.4954722,5.91575,Ughelli-South,"ss,sw",DE,State
+Ph,SPDC,11/18/2020,cr,105,48,pl,sab,37,14'' Okordia-Rumuekpe Trunkline right of way at Edeoha Rivers state,5.0236811,6.6223581,Ahoada-East,la,"BY,RI",State
+by,NAOC,11/8/2020,cr,297.08,295.05,tf,ome,38,DEHYDRATION UNIT,4.2988333,6.2478417,Brass,sw,BY,State
+wa,Midwestern,11/7/2020,cr,130,57,pl,sab,39,MWOG/UPIL 12'' PIPELINE AT USHIE.,5.6516667,6.2963889,Ndokwa-West,la,DE,State
+ph,Eroton E&P,9/17/2020,cr,139,,pl,sab,40,"ALAKIRI 6"" DELIVERY LINE AT NKEMKIRI",4.6141111,7.0684444,Bonny,"ss,iw,sw",RI,State
+ph,Eroton E&P,8/31/2020,cr,479,360,DELIVERY LINE,sab,41,"6"" DELIVERY LINE AMABA- BIE, ALAKIRI",4.6398333,7.0693333,Okrika,sw,RI,State
+ph,SPDC,8/22/2020,cr,205,-,pl,sab,42,"20"" KOLO CREEK - RUMUEKPE TRUNKLINE RIGHT OF WAY, IHUOWO, AHAODA EAST LOCAL GOVERNMENT AREA, RIVERS STATE",4.97499,6.663612,Ahoada-East,la,RI,State
+ph,Eroton E&P,8/18/2020,cr,162.31,9,pl,sab,43,"6'' DELLIVERY LINE AT ALAKIRI, AMBA_BIA COMMUNITY.",4.6389444,7.0689722,Bonny,ss,RI,State
+ph,Eroton E&P,8/18/2020,cr,162.31,9,pl,sab,44,"6'' Delivery Line @ Alakiri, Amba- Bie community. Point A& B",4.6389444,7.0689722,Bonny,sw,RI,State
+ph,SPDC,8/12/2020,cr,272,,pl,sab,45,"14"" OKORDIA-RUMUEKPE T/l AT ULA-IKATA, AHODA WEST L.G.A. R/S",5.049,6.58525,Ahoada-West,ss,RI,State
+ph,SPDC,8/1/2020,cr,390,,pl,sab,46,"14” Okordia-Rumuekpe Pipeline @ Edeoha Community, Ahoada East LGA, Rivers State",5.0272222,6.6161944,Ahoada-East,ss,RI,State
+wa,NDWEST,7/21/2020,cr,780,585,other:delivery line,sab,47,10'' UTOROGU - UPS DELIVERY LINE AT OTOR - EDO,5.4779444,5.9038611,Ughelli-South,"la,ss",DE,State
+ph,Eroton E&P,7/18/2020,cr,333,112,fl,sab,48,"CAWTHORNE CHANNEL 2 WELL 47s , 4'' FLOW LINE RoW AT OKOMAKIRI COMMUNITY.",4.5593889,7.0106667,Degema,sw,RI,State
+wa,Heritage,7/16/2020,cr,160,150,pl,sab,49,24'' UPS - RAPELE LINE AT EKAKPAMRE,5.5257778,5.9188333,Ughelli-North,la,DE,State
+ph,SPDC,7/7/2020,cr,258,175,pl,sab,50,"28"" NKPOKU-BOMU TRANS NIGER PIPELINE RIGHT OF WAY AT RUMUEWHARA",4.8791111,7.3589722,Ukwa-East,la,RI,State
+ph,SPDC,7/6/2020,cr,186,125,pl,sab,51,"18"" Assa-Rumuekpe Pipeline at Egbeda",5.24082,6.77024,Emuoha,la,RI,State
+ph,Eroton E&P,6/20/2020,cr,108.11,72,fl,eqf,52,Cawthorne channel 1 Akaso well 9s@ Captain kiri community.,4.5384444,7.0381667,Degema,sw,RI,State
+ph,SPDC,6/17/2020,cr,411,244,pl,sab,53,20'' KOLOCREEK-RUMUEKPE PIPELINE,4.92841,6.437964,Ogbia,la,RI,State
+ph,Eroton E&P,5/18/2020,cr,134.43,69.47,fl,sab,54,"Cawthorne Channel 2 Well 47L , Okomabio, Community.",4.5595833,7.0108333,Degema,la,RI,State
+ph,SPDC,4/11/2020,cr,127,63,pl,sab,55,"Old&New 20"" Kolocreek/Rumuekpe T/L@Odau",4.9289167,6.4408889,Abua-Odual,"la,ss",RI,State
+ph,SPDC,4/10/2020,cr,186,110,pl,sab,56,"Old and new 20"" KoloCreek/Rumuekpe T/Line@ Odau",4.9298056,6.4466389,Abua-Odual,"la,ss",RI,State
+ph,SPDC,4/7/2020,cr,100,90,pl,sab,57,"old 20"" KoloCreek/Rumuekpe T/L@Odau",4.9283333,6.4371944,Ogbia,"la,ss",RI,State
+ph,SPDC,4/4/2020,cr,284,47,pl,sab,58,20'' Rumuekpe- Nkpoku Trunk Line Row @ Ibaa,4.9543056,6.8153611,Emuoha,la,RI,State
+ph,SPDC,4/3/2020,cr,459.92,150,pl,sab,59,"12"" Oguta/Egbema T/L @ Umunkwu-Oguta, Imo State",5.6476111,6.7503333,Oguta,la,IM,State
+ph,SPDC,3/25/2020,cr,136,113,pl,sab,60,"28"" Nkpoku-Bomu pipeline @ Akpajo",4.8319444,7.0878056,Eleme,la,RI,State
+ph,SPDC,2/26/2020,cr,864,723,pl,sab,61,"24""/36"" nkpoku-Bomu trans Niger pipeline right of way @atali in rivers state",4.8888889,7.0626667,Obio/Akpor,la,RI,State
+ph,SPDC,2/22/2020,cr,904,10,pl,sab,62,14'' OKORDIA RUMUEKPE PIPELINE AT AKALAMINI IN AHOADA WEST RIVERS STATE.,5.11634,6.49227,Ahoada-West,"la,ss",RI,State
+ph,SPDC,2/21/2020,cr,904,10,pl,sab,63,14'' OKORDIA RUMUEKPE PIPELINE AT AKALAMINI IN AHOADA WEST RIVERS STATE,5.11686,6.49151,Ahoada-West,"la,ss",RI,State
+ph,SPDC,2/21/2020,cr,904,10,pl,sab,64,14'' OKORDIA RUMUEKPE PIPELINE AT AKALAMINI IN AHOADA WEST RIVERS STATE,5.11678,6.49161,Ahoada-West,"la,ss",RI,State
+ph,SPDC,2/21/2020,cr,904,10,pl,sab,65,14'' OKORDIA RUMUEKPE PIPELINE AT AKALAMINI IN AHOADA WEST RIVERS STATE,5.11648,6.49207,Ahoada-West,"la,ss",RI,State
+ph,SPDC,2/21/2020,cr,904,10,pl,sab,66,14'' OKORDIA RUMUEKPE PIPELINE AT AKALAMINI IN AHOADA WEST RIVERS STATE,5.11641,6.49216,Ahoada-West,"la,ss",RI,State
+ph,Aiteo E&P,2/15/2020,cr,322,22,pl,sab,67,"30"" NCTL ROW-TOUMA PIPE LINE",4.5655556,6.9069556,Degema,sw,RI,State
+wa,NDWEST,1/28/2020,cr,100,,other:illegal refinery,sab,68,10'' UTOROGU UPS DELIVERY LINE AT OTOR - EDO/ UGHEVWUGHE.,5.4869444,5.9038889,Ughelli-South,"sw,la",DE,State
+wa,NDWEST,1/28/2020,cr,250,,other:illegal refinery,sab,69,10'' UTOROGU UPS DELIVERY LINE AT UGHEVWUGHE.,5.4866667,5.9016667,Ughelli-South,"la,sw",DE,State
+wa,NDWEST,1/28/2020,cr,100,,other:illegal refinery,sab,70,10'' UTOROGU UPS DELIVERY LINE AT UGHEVWUGHE/ IWHREKREKAKAN.,5.4897222,5.9019444,Ughelli-South,"la,sw",DE,State
+ph,Eroton E&P,1/25/2020,cr,2994,1576,wh,sab,71,Orubiri well 7s wellhead orubiri rivers state.,4.6550833,7.0709722,Okrika,,RI,State
+ph,NAOC,1/21/2020,cr,369,110,pl,sab,72,24”OGODA/BRASS PIPELINE AT EMAGO-KUGBO @ RIVERS STATE,4.7077222,6.4244722,Ogbia,la,RI,State
+ph,SPDC,1/20/2020,cr,247,25,pl,sab,73,20'' KOLOCREEK-RUMUEKPE PIPELINE (OLD) AT ODAU (KM10) RIVERS STATE.,4.92979,6.44671,Abua-Odual,"la,ss",RI,State
+ph,SPDC,1/13/2020,cr,181,6,pl,sab,74,20'' KOLOCREEK -RUMUEKPE AT RUMUEKPE,4.98131,6.68196,Emuoha,"la,ss",RI,State
+ph,SPDC,12/19/2019,cr,151,,pl,sab,75,"20"" Kolo Creek Truck Line ROW Okporowo",4.9711167,6.6424417,Ahoada-East,"sw,la",RI,State
+wa,FIRST,12/9/2019,cr,100,75,pl,sab,76,KM 12 OGINI - ERIEMU 10'' DELIVERY LINE.,5.5515833,6.1779722,Isoko-North,la,DE,State
+uy,MPN,11/21/2019,cr,126,,other: Treating Tank 674 Bund wall,ome,77,Treating Plant / Tank 674 Bund wall,4.5497908,8.0097067,Ibeno,of,AK,State
+ph,Aiteo E&P,11/12/2019,cr,2003,132,pl,sab,78,30'' NCTL ROW AT CAWTHORNE CHANNEL 2 AXIS,4.579205,7.0208881,Degema,"sw,ss,iw",RI,State
+wa,NDWEST,11/10/2019,cr,150,,other:Activities of illegal refinery.,sab,79,NPDC/ND WESTERN 10'' UTOROGU-UPS DELIVERY LINE AT OTOR-EDO.,5.4827222,5.9048056,Ughelli-South,sw,DE,State
+wa,NDWEST,11/10/2019,cr,160,,pl,sab,80,NPDC/ND WESTERN 10'' UTOROGU-UPS DELIVERY LINE AT OTOR-EDO.,5.4736111,5.9,Ughelli-South,sw,DE,State
+wa,Heritage,11/3/2019,cr,1370,1300,other:trunk line,sab,81,12'' EVWRENI - UPS LINE AT EVWRENI.,5.3805556,6.0372222,Ughelli-North,ss,DE,State
+by,NAOC,10/30/2019,cr,198,170,tf,ome,82,CRUDE OIL PRODUCTION TANKS 3 & 4 AT BRASS TERMINAL TANK FARM,4.3022222,6.2491667,Brass,sw,BY,State
+wa,NDWEST,10/20/2019,cr,240,,other:trunkline,sab,83,10'' UTOROGU-UPS TRUNKLINE AT UGHEVWUGHE,5.3561111,5.9144444,Ughelli-South,"la,sw",DE,State
+wa,Heritage,9/22/2019,cr,1403.6,1387.6,pl,eqf,84,24'' UPS RAPELE LINE AT EKPAN.,5.5733333,5.7391667,Uvwie,la,DE,State
+ph,SPDC,9/20/2019,cr,157,,pl,sab,85,"4"" OBELLE IBAA DELIVERY LINE AT IBAA, EMOHUA LGA",4.9967111,6.8065306,Emuoha,la,RI,State
+ph,Aiteo E&P,9/10/2019,cr,343,,pl,sab,86,30'' NCTL SANBARTH-AWOBA PIPELINE AT ELEM-KALABARI,4.5724889,6.9319167,Degema,,RI,State
+wa,NDWEST,9/6/2019,cr,150,,,sab,87,OKPARE - OTOR - EDO RIVER,5.4561389,5.8945278,Ughelli-South,"la,iw",DE,State
+ph,SPDC,8/31/2019,cr,434,,pl,sab,88,"4"" Obelle - Ibaa Pipeline (Delivery Line) at Ibaa",4.97168,6.80431,Emuoha,"la,sw",RI,State
+ph,SPDC,8/30/2019,cr,155,,pl,sab,89,20” Rumuekpe – Nkpoku Trunkline Right of way at Ibaa,4.95455,6.80826,Emuoha,"la,ss",RI,State
+ph,Eroton E&P,8/29/2019,cr,119,,wh,sab,90,Alakre well 34T at Ofiominama.,4.6447222,7.0594444,Okrika,"la,sw",RI,State
+ph,SPDC,8/25/2019,cr,243,,pl,sab,91,20'' KOLO CREEK- RUMUEKPE PIPELINE@ODAU KM 9 IN RIVERS STATE.,4.9283,6.43709,Ogbia,sw,RI,State
+ph,SPDC,8/10/2019,cr,313,,pl,sab,92,"12” Imo River – Ogale Trunkline, Owaza.",4.9809389,7.1739694,Etche,la,AB,State
+ph,SPDC,8/7/2019,cr,115,,pl,sab,93,14'' Okordia-Rumuekpe pipeline at Akinima,5.1310694,6.4724389,Yenagoa,"sw,ss",RI,State
+ph,SPDC,8/6/2019,cr,405,,pl,sab,94,24'' NKPOKU-BOMU PIPELINE @ EGBALOR,4.782776,7.192037,Eleme,la,RI,State
+ph,SPDC,8/3/2019,cr,279,,pl,sab,95,20” Rumuekpe – Nkpoku Trunkline Right of way at Ibaa,4.95375,6.83276,Emuoha,"la,ss",RI,State
+wa,NDWEST,8/1/2019,cr,200,28,pl,sab,96,UTOROGU W/16T @ OROWHE/IWHREKEN,5.44389,5.8856367,Ughelli-South,sw,DE,State
+ph,NAOC,7/28/2019,cr,557.33,187.68,pl,sab,97,"18'' EBOCHA-OGODA PIPELINE UBETA COMMUNITY AWELGA, RIVERS STATE.",5.183,6.5935556,Ogba/Egbema/Ndoni,"la,ss",RI,State
+by,SPDC,7/18/2019,cr,160,,pl,sab,98,10'' DIEBU-NUN RIVER DELIVERY LINE AT ONYEOMA AND EKEOWE,4.7419722,6.1027778,Southern-Ijaw,sw,BY,State
+wa,NDWEST,7/5/2019,cr,120,,other:Trunk line,sab,99,10'' UTOROGU -UPS TRUNK LINE @ UGHEVWUGHE COMMUNITY.,5.492,5.9166389,Ughelli-South,la,DE,State
+ph,SPDC,7/1/2019,cr,108,53,pl,sab,100,"14"" OKORDIA RUMU-EKPE @ULA IKATA",5.051586,6.582709,Ahoada-West,la,RI,State
+ph,SPDC,7/1/2019,cr,108,53,pl,sab,101,"14"" OKORDIA RUMUEKPE TRUNKLINE ROW@ ULA IKATA",5.051558,6.582733,Ahoada-West,la,RI,State
+ph,SPDC,7/1/2019,cr,108,53,pl,sab,102,"14"" OKORDIA RUMUEKPE @ULA IKATA",5.0515339,6.5817589,Ahoada-West,la,RI,State
+wa,NDWEST,6/27/2019,cr,350,52,other:trunk line,sab,103,"SYSYTEM 2A 16"" PL @ MOSOGAR, ETHIOPE WEST L.G.A., DELTA STATE.",5.4871833,5.9126,Ughelli-South,"la,sw",DE,State
+ph,SPDC,6/25/2019,cr,227,,pl,sab,104,"14"" OKORDIA-RUMUEKPE OSHIE",5.10328,6.51186,Ahoada-West,la,RI,State
+ph,Eroton E&P,6/21/2019,cr,4004.26,2988,wh,sab,105,ALAKIRI WELL 15 AMABAKIRI,4.6467222,7.0816667,Okrika,iw,RI,State
+wa,NDWEST,6/17/2019,cr,220,,,sab,106,"10"" UTOROGU - UPS TRUNKLINE AT OTOR - EDO.",5.4611111,6.3977778,Isoko-North,"sw,iw,la",DE,State
+ph,SPDC,5/19/2019,cr,169,,pl,sab,107,20`` KOLOCREEK-RUMUEKPE PIPELINE AT ODAU (KM 9),4.92833,6.4371,Ogbia,sw,RI,State
+ph,SPDC,5/15/2019,cr,102,,pl,sab,108,"20"" kolocreek-Rumuekpe pipeline at Okoma.",4.97384,6.66038,Ahoada-East,la,RI,State
+wa,Heritage,5/14/2019,cr,150,60,pl,eqf,109,28'' TFP AT YEYE COMMUNITY.,5.4297917,5.3854667,Warri-South-West,sw,DE,State
+wa,Heritage,5/14/2019,cr,100,503,pl,eqf,110,28'' TFP AT OTEGHELE COMMUNITY.,5.5692917,5.6315583,Warri-South,sw,DE,State
+ph,Aiteo E&P,5/5/2019,cr,336.8,194,pl,sab,111,30” NCTL at Boro,4.5562778,6.7926667,Akuku-Toru,sw,RI,State
+ph,Aiteo E&P,4/22/2019,cr,178,,pl,sab,112,30” NCTL at Elem Kalabari,4.5735278,6.9394444,Degema,sw,RI,State
+ph,Aiteo E&P,4/22/2019,cr,211,,pl,sab,113,"30” NCTL PL near Awoba Manifold, Bille ,Oruama",4.5627778,6.8496389,Degema,sw,RI,State
+ph,Aiteo E&P,4/21/2019,cr,115.73,,pl,sab,114,"30” NCTL at Boro, AKULGA Rivers State",4.5534722,6.7854444,Akuku-Toru,sw,RI,State
+wa,PPMC,4/9/2019,cr,200,,pl,eqf,115,NNPC/NPSC OLD 24'' RISER AT SAGHARA UGBORODO COMMUNITY.,5.6145,5.2106667,Warri-South-West,"sw,la,iw",DE,State
+ph,NAOC,4/5/2019,cr,120.8,,pl,sab,116,"24"" Ogoda/Brass Pipeline @ Oyakama",5.0245,6.5373056,Ahoada-West,la,RI,State
+wa,Heritage,4/2/2019,cr,410,300,pl,cor,117,28'' TFP @ EWEREGBENE,5.5435972,5.5141944,Warri-South-West,sw,DE,State
+wa,Heritage,3/21/2019,cr,1315,1300,pl,ome,118,"16"" Uzere Eriemu Delivery line at Oghara-Iyede.",5.4897222,6.095,Isoko-North,la,DE,State
+wa,Heritage,3/18/2019,cr,400,390,other:delivery line,sab,119,"8'' ORONI - EVWRENI, DELIVERY LINE @ OKPOLO (ENHWE).",5.3636389,6.0908611,Isoko-South,la,DE,State
+by,SPDC,3/16/2019,cr,136,26,pl,sab,120,"16"" TUNU-BRASS CREEK P/L @ AGBIDIAMA.",5.5306667,6.0264444,Ughelli-North,sw,BY,State
+wa,FIRST,3/15/2019,cr,250,200,pl,eqf,121,OML 26 NPDC/FHN JV OGINI-ERIEMU OIL DELIVERY LINE OGHERE.,5.5288333,6.0665833,Ughelli-North,ss,DE,State
+ph,NAOC,2/28/2019,cr,650,580,pl,sab,122,24'' OGODA-BRASS P/L@ EMAGO-KUGBO,4.7174722,6.4276667,Ogbia,ss,RI,State
+ph,Aiteo E&P,2/28/2019,cr,1410.2,68,pl,sab,123,30'' NCTL P/ LINE @BILLIE/KRAKAMA MANIFOLD IN RIVERS STATE,4.5646,6.9097,Degema,sw,RI,State
+ph,SPDC,2/25/2019,cr,288,112,pl,sab,124,14'' Okordia-Rumuekpe Trucnkline at ULa-Ikata,5.05129,6.583,Ahoada-West,ss,RI,State
+wa,Heritage,2/24/2019,cr,4065,4025,pl,sab,125,"28"" Trans Forcados Pipeline at Batan",5.5627778,5.5577778,Warri-South,sw,DE,State
+ph,SPDC,2/24/2019,cr,791,290,pl,sab,126,18'' ASSA-RUMUEKPE P/L @ EGBEDA-EMUOHA,5.24037,6.77008,Emuoha,la,RI,State
+ph,SPDC,2/17/2019,cr,129,45,pl,sab,127,"28"" BOMU-BOMU TRANS NIGER PIPELINE",4.59499,7.25758,Bonny,sw,RI,State
+ph,SPDC,2/13/2019,cr,313,244,pl,sab,128,28'' trans niger pipeline right of way at aleto,4.809025,7.103891,Eleme,"la,iw",RI,State
+ph,SPDC,2/3/2019,cr,1010,295,pl,sab,129,12' IMO RIVER 0GALE TL ROW AT UZUAkU,4.893793,7.176448,Ukwa-West,la,AB,State
+ph,SPDC,2/2/2019,cr,290,,pl,sab,130,20'' Kolocreek-Rumuekpe Trunkline @ KM9 Odau,4.92832,6.43714,Ogbia,"ss,sw",RI,State
+wa,NDWEST,1/22/2019,cr,188,94,pl,sab,131,10'' UTOROGU / UPS DELIVERY LINE.,5.4538333,5.8898333,Ughelli-South,sw,DE,State
+by,NAOC,1/20/2019,cr,104,66.96,pl,sab,132,10'' CLOUGH CREEK/TEBIDABA PIPELINE AT APOI,4.7318333,5.8498056,Southern-Ijaw,sw,BY,State
+ph,NAOC,1/16/2019,cr,279.41,230,pl,sab,133,10'' OSHIE-OGODA PIPELINE @ AKARAOLU,5.1026389,6.5134444,Ahoada-West,,RI,State
+ph,Aiteo E&P,1/7/2019,cr,2950,730,pl,sab,134,"CAWTHORNE CHANNEL 3, NTCL ROW",4.5738056,6.9397222,Degema,sw,RI,State
+ph,NAOC,1/6/2019,cr,373,251.5,wh,sab,135,Ebegoro 13T Well head. loweer master valves on the well head were removed by unknown persons,5.3572778,6.6829722,Ogba/Egbema/Ndoni,la,RI,State
+wa,NPDC,12/31/2018,cr,118,117.7,mf,sab,136,NPDC OGHAREKI -1 LOCATION - OGHAREKI COMMUNITY.,5.9667722,5.6496944,Ethiope-West,la,DE,State
+wa,Heritage,12/17/2018,cr,586,566,pl,eqf,137,"28"" Trans Forcados pipeline at Batan.",5.5627778,5.5580556,Warri-South,sw,DE,State
+wa,SPDC,12/11/2018,cr,107,100,pl,sab,138,20'' OTUMARA-ESCRAVOS PIPELINE @ OTUMARA AXIS.,5.6446944,5.1484444,Warri-South-West,sw,DE,State
+ph,SPDC,11/26/2018,cr,208,,tk,sab,139,18'' ASSSA-RUMUEKPE TRUNK-LINE AWARA IN OHAJI/EGBEMA,5.3209611,6.7887389,Ohaji/Egbema,la,IM,State
+ph,NAOC,11/24/2018,cr,199,,pl,sab,140,"24'' Ogoda -Brass pipeline @ Obodhi ,",4.9836389,6.5208333,Ahoada-West,la,RI,State
+by,NAOC,11/23/2018,cr,144,,pl,sab,141,6'' OGBOINBIRI/TEBIDABA PIPELINE AT AZUZUAMA,4.7353056,5.9745,Southern-Ijaw,sw,BY,State
+wa,NDWEST,11/17/2018,cr,500,,pl,sab,142,10'' UTOROGU/UPS DELIVERY @ OTOR-EDO.,5.4734167,5.8999722,Ughelli-South,"la,sw",DE,State
+wa,NDWEST,11/16/2018,cr,300,,pl,sab,143,10'' UTOROGU-UPS DELIVERY LINE@ OTOR-EDO.,5.47525,5.9014722,Ughelli-South,ss,DE,State
+by,NAOC,11/15/2018,cr,231,,pl,cor,144,10'' CLOUGH CREEK/TEBIDABA PIPELINE AT AZUZUAMA,4.6837222,5.8983056,Southern-Ijaw,,BY,State
+by,NAOC,11/12/2018,cr,100,,pl,cor,145,18'' TEBIDABA/BRASS PIPELINE AT BABARAGBENE,4.5172778,6.0244444,Southern-Ijaw,sw,BY,State
+by,NAOC,11/9/2018,cr,206,199.62,pl,cor,146,24'' BRASS MANIFOLD/BRASS PIPELINE AT OKPOAMA,4.3700556,6.2797778,Brass,sw,BY,State
+ph,SPDC,11/9/2018,cr,170,65,pl,sab,147,"12"" IMO RIVER - OGALE T/L @ UZUAKU.",4.89391,7.17656,Ukwa-West,la,RI,State
+ph,SPDC,10/26/2018,cr,157,150,pl,sab,148,"24"" Bomu-bonny Trans Niger pipeline at Patrick Watetrside Rivers state",4.59356,7.25753,Gokana,sw,RI,State
+by,NAOC,10/22/2018,cr,208.5,20,wh,eqf,149,IDU 11 L WELLHEAD AT EGBEBIRI,5.2722222,6.55,Ogba/Egbema/Ndoni,la,BY,State
+ph,Aiteo E&P,10/17/2018,cr,129.41,12,pl,sab,150,AWOBA OPU BILLE BEKO DEGEMA RIVERS STATE.,4.5572222,6.8158333,Degema,sw,RI,State
+wa,Neconde,10/16/2018,cr,280,805,pl,eqf,151,JONES CREEK 16'' TRUNKLINE EGWA.,5.6304722,5.4280278,Warri-South-West,sw,DE,State
+ph,SPDC,10/15/2018,cr,332,80,pl,sab,152,20'' KOLO CREEK PIPELINE AT IMOGU-RUMUEKPE,4.9807,6.67949,Emuoha,"la,ss",RI,State
+ph,NAOC,9/11/2018,cr,500,,pl,sab,153,"24"" OGODA-BRASS PIPELINE AT OYAKAMA/OBODHI COMMUNITY, AWELGA, RIVERS STATE.",5.025,6.5375,Ahoada-West,"la,ss",RI,State
+ph,SPDC,9/9/2018,cr,622,420,pl,sab,154,"24""/36"" Nkpoku-Bomu TNP ROW @ Eneka",4.919725,7.033248,Obio/Akpor,,RI,State
+ph,Eroton E&P,8/12/2018,cr,148,11,pl,sab,155,6'' ALAKRI DELIVERY LINE,4.9846111,7.1314167,Ogo-Bolo,ss,RI,State
+by,SPDC,8/1/2018,cr,847,,other:,sab,156,14'' OKODIA-RUMUEKPE TRUNKLINE AT IKARAMA,5.1359167,6.47075,Yenagoa,ss,BY,State
+ph,SPDC,7/24/2018,cr,201,,pl,sab,157,"20"" Remuekpe-Nkpoku pipe line Ibaa",4.9542611,6.8153083,Emuoha,la,RI,State
+by,SPDC,7/21/2018,cr,167,,pl,sab,158,16'' Nun river kolo creek pipeline at Otuegwe 1,4.8372222,6.2379722,Southern-Ijaw,sw,BY,State
+ph,SPDC,7/20/2018,cr,468.57,,pl,sab,159,20'' KOLOCREEEK-RUMUEKPE (TRUNKLINE) PIPELINE,4.9807,6.6794889,Emuoha,la,RI,State
+ph,SPDC,7/13/2018,cr,603,,pl,sab,160,"20"" Rumuekpe-Nkpoku Trans Niger Pipeline @ Ibaa",4.953757,6.832904,Emuoha,la,RI,State
+ph,SPDC,6/29/2018,cr,389,,pl,sab,161,"20"" KOLOCREEK-RUMUEKPE (T/L) PIPELINE @ ODAU",4.92825,6.4366667,Ogbia,sw,RI,State
+ph,NAOC,6/15/2018,cr,330,,pl,sab,162,"10'' OSHIE-OGODA PIPELINE AT IDU-EKPEYE COMMUNITY AWELGA, RIVERS STATE",5.1066222,6.529625,Ahoada-West,ss,RI,State
+ph,SPDC,6/13/2018,cr,587,141,pl,sab,163,"14"" OKORDIA-RUMUEKPE PIPELINE, ULA-IKATA, AHOADA-EAST LGA, RIVERS STATE",5.05074,6.58352,Ahoada-West,la,RI,State
+ph,Aiteo E&P,6/8/2018,cr,330,,pl,sab,164,ELEM KALABARI AXIS,4.5749722,6.961,Degema,sw,RI,State
+wa,Heritage,6/2/2018,cr,150,,pl,eqf,165,28'' TRANS FORCADOS @ YEYE,5.41775,5.3790556,Burutu,la,DE,State
+wa,Heritage,6/2/2018,cr,150,,pl,ome,166,"28"" TRANS FORCADOS @ YEYE",5.4190278,5.37975,Burutu,la,DE,State
+ph,NAOC,5/26/2018,cr,736,63,pl,sab,167,"24""Ogoda-Brass pipeline at Emago-KUgbo/ Amuruto Axis, Abua/Odua LGA. Rivers State.",4.8008333,6.42775,Abua-Odual,la,RI,State
+by,SPDC,5/24/2018,cr,166,,pl,sab,168,12'' ADIBAWA-OKORDIA PIPELINE AT IKARAMA,5.1650556,6.4578056,Yenagoa,ss,BY,State
+wa,Heritage,5/7/2018,cr,2000,2333,pl,sab,169,28'' TRANSFORCADOS PIPELINE AT EWEREGBENE.,5.5390556,5.5043611,Warri-South-West,sw,DE,State
+wa,NPDC,5/1/2018,cr,150,50.31,fl,sab,170,NPDC CHEVRON JV 4'' SL AROH FLOW LINE AT AJAMIMOGHA,6.0086111,5.4186111,Ovia-North-East,sw,ED,State
+ph,SPDC,4/28/2018,cr,116,56,pl,sab,171,12'' IMO RIVER- OGALE PIPELINE @ UMUELECHI UZUAKU,4.8938,7.17641,Ukwa-West,la,AB,State
+wa,SPDC,4/26/2018,cr,580,212,pl,cor,172,24'' TRANS RAMOS PIPELINE (OIL) @ ODIMODI.,5.2519722,5.3797222,Burutu,sw,DE,State
+wa,SPDC,4/25/2018,cr,924,693,pl,eqf,173,24'' TRANS-RAMOS PIPELINE (OIL) @ ODIMODI.,5.2871389,5.3709167,Burutu,sw,DE,State
+ph,TOTAL,4/16/2018,cr,140,136,pl,sab,174,KM 27 OBAGI-RUMUEKPE CRUDE OIL EXPORT PIPE LINE @ EKWUTCHE.,5.0107222,6.692,Emuoha,la,RI,State
+by,SPDC,3/30/2018,cr,165,57,pl,sab,175,14'' OKORDIA-RUMUEKPE P/L @ IKARAMA,5.146375,6.4591167,Yenagoa,ss,BY,State
+wa,Heritage,3/30/2018,cr,100,,pl,sab,176,28'' TRANS FORCADOS PIPELINE @ YEYE.,5.4300278,5.3850278,Warri-South-West,sw,DE,State
+ph,SPDC,3/15/2018,cr,116,21,pl,sab,177,"28""BOMU-BONNY TNP AT AYAMBO BONNY.",4.44557,7.17445,Bonny,sw,RI,State
+wa,NDWEST,3/3/2018,cr,100,,pl,sab,178,10'' UTOROGU / UPS DELIVERY LINE @ OTOR-EDO.,5.47375,5.9002222,Ughelli-South,ss,DE,State
+wa,Heritage,2/27/2018,cr,200,,pl,sab,179,28'' TFP @ BATAN.,5.5638889,5.5961111,Warri-South,sw,DE,State
+wa,Heritage,2/27/2018,cr,400,250,pl,sab,180,28'' TFP AT BATAN,5.5638889,5.5961111,Warri-South,sw,DE,State
+wa,Heritage,2/27/2018,cr,113,98,pl,eqf,181,28'' TFP AT YEYE,5.4241667,5.3816667,Burutu,sw,DE,State
+ph,SPDC,2/21/2018,cr,566,303,pl,sab,182,12'' Imo River - Ogale pipeline at Kom - Kom,4.85589,7.1648686,Oyigbo,la,RI,State
+by,SPDC,2/14/2018,cr,470,,pl,sab,183,12'' ADIBAWA-OKORDIA P/L @ IKARAMA,5.17525,6.4685278,Yenagoa,ss,BY,State
+by,SPDC,2/14/2018,cr,470,,pl,sab,184,12'' Adibawa-Okordia p/l @ Ikerema,5.17525,6.4685278,Yenagoa,ss,BY,State
+wa,WRPC,1/10/2018,cr,943,940.5,st,eqf,185,"TANK 05 EXTERNAL DRAIN PIT VALVE @ WRPC , WARRI.",5.5689167,5.7143333,Warri-South,la,DE,State
+ph,NAOC,12/25/2017,cr,789,,pl,sab,186,"24'' OGODA/BRASS PIPELINE, EMAGO-KUGBO, ABUA-ODUA LGA, RIVERS STATE.",4.7142778,6.4250278,,"la,ss",RI,State
+ph,SPDC,12/22/2017,cr,187,,pl,ome,187,Single Point Mooring One (SPM1),4.17072,7.2273,Bonny,iw,RI,State
+ph,SPDC,12/22/2017,cr,113,,pl,sab,188,"20"" Rumuekpe-Nkpoku Trans Niger pipeline, Ibaa, Emohua Lga, Rivers State.",4.95427,6.81589,Emuoha,la,RI,State
+wa,NDWEST,12/7/2017,cr,315,,,,189,INHEREKAN RIVER WITH EXTENSION TO OKPARE BRIDGE.,5.4548611,5.8917778,Ughelli-South,iw,DE,State
+wa,Heritage,11/25/2017,cr,150,,pl,sab,190,28'' TRANSFOCADOS PIPELINE @ YEYE.,5.4213056,5.3799167,Burutu,sw,DE,State
+ph,SPDC,11/14/2017,cr,2026,,pl,sab,191,20'' KOLO CREEK-RUMUEKPE PIPELINE,4.93812,6.50026,Abua-Odual,"ss,la,iw",RI,State
+ph,SPDC,11/11/2017,cr,103,54,pl,sab,192,"28'' Nkpoku-Bomu Pipeline at Norkpo, Tai L.G.A Rivers State",4.7355278,7.2055833,Tai,,RI,State
+by,NAOC,10/23/2017,cr,143.16,1.258,pl,sab,193,10'' CLOUGH CREEK P/L RISER @ GBARAUN,4.7788611,5.7798056,Southern-Ijaw,sw,BY,State
+ph,NAOC,9/7/2017,cr,524.797,,pl,sab,194,10'' OSHIE -OGODA PIPELINE AT IDU-EKPEYE IN AHOADA WEST L.G.A.RIVERS STATE.,5.1143333,6.5526389,Ahoada-West,la,RI,State
+ph,SPDC,8/26/2017,cr,797,,pl,sab,195,20'' KoloCreek-Rumuekpe pipeline at Odau community,4.9282,6.4366,Abua-Odual,"la,ss",RI,State
+by,NAOC,8/22/2017,cr,180,124,pl,cor,196,10'' CLOUGH CREEK/TEBIDABA PIPELINE AT APOI,4.7103333,5.8775556,Southern-Ijaw,sw,BY,State
+by,NAOC,8/22/2017,cr,180,124,pl,cor,197,10'' CLOUGH/TEBIDABA P/L @ APOI,4.7086667,5.8672222,Southern-Ijaw,sw,BY,State
+by,SPDC,8/11/2017,cr,1669,825,wh,sab,198,ADIBAWA NORTH EAST WELL 1 @ BESENI,5.2575,6.5213889,Yenagoa,"la,sw",BY,State
+by,NAOC,7/23/2017,cr,131,120,fl,sab,199,6'' AZUZUAMA/OGBOINBIRI F/L @ IKEINGHENBIRI,4.7106389,5.9861389,Southern-Ijaw,sw,BY,State
+ph,Aiteo E&P,7/7/2017,cr,4300,52,pl,sab,200,"NCTL ROW at Elem Kalabbri Axis, in Cawthorne Channel, Rivers State",4.5750278,6.9545653,Degema,sw,RI,State
+ph,TOTAL,7/2/2017,cr,1066,2.8,pl,sab,201,KM 24.8 OBAGI-RUMUEKPE EXPORT PIPELINE,5.031,6.6925278,Emuoha,la,RI,State
+ph,SPDC,6/27/2017,cr,135,120,pl,sab,202,"12"" IMO RIVER-OGALE TNP @ UMUOLOLO IN ABIA STATE",4.9433898,7.1847898,Ukwa-West,,RI,State
+wa,NAOC,6/26/2017,cr,100,88,wh,sab,203,KWALE 2 WELL HEAD LOCATION AT BENEJU/UMU-EZE IWARIA.,5.653,6.5075,Ndokwa-East,la,DE,State
+ph,SPDC,6/1/2017,cr,1127,600,pl,sab,204,20'' KoloCreek-Rumuekpe pipeline,4.9283,6.43727,Abua-Odual,"la,ss",RI,State
+ph,SPDC,5/29/2017,cr,629,373,pl,sab,205,"12""' imo river/ogale pipeline,uzuaku",4.8946111,7.1769722,Ukwa-West,la,AB,State
+ph,SPDC,5/18/2017,cr,766,,pl,sab,206,20'' KOLO CREEK-RUMUEKPE PIPELINE,4.93924,6.50029,Abua-Odual,iw,RI,State
+wa,Heritage,4/13/2017,cr,116.9,106.9,wh,sab,207,AfiesereWell 6S @ Afiesere Community.,5.5527222,6.0077222,Ughelli-North,la,DE,State
+ph,SPDC,3/27/2017,cr,977,654,pl,sab,208,"12'' IMO RIVER - OGALE PIPELINE, UZUAKU, UKWA WEST, ABIA STATE.",4.8945278,7.1768611,Ukwa-West,la,RI,State
+ph,SPDC,3/25/2017,cr,570,,st,eqf,209,BONNY OIL AND GAS TERMINAL TANK 9 (NINE) STORAGE @ BONNY IN RIVERS STATE.,4.4297306,7.1618194,Bonny,la,RI,State
+ph,SPDC,3/3/2017,cr,539,277,pl,sab,210,"12 IMO RIVER - OGALE PIPELINE, KOM-KOM, OYIGBO LGA, RIVERS STATE.",4.8800556,7.1724722,Oyigbo,la,RI,State
+ph,NAOC,2/21/2017,cr,104,60,wh,sab,211,UMUORU 6T WELL HEAD @ UTU-ECHI COMMUNITY,5.4051389,6.4896389,Ogba/Egbema/Ndoni,la,RI,State
+wa,NPDC,2/12/2017,cr,6866.16,6786,Delivery Line,sab,212,NPDC 16'' UZERE-EREMU DELIVERY LINE @ IYEDE,5.4991667,6.0837778,Isoko-North,ss,DE,State
+wa,NPDC,12/8/2016,cr,100,,Delivery Line,sab,213,24'' UPS/ RAPELE DELIVERY LINE @ OHREREHE AGBARHO,5.5629722,5.8499167,Uvwie,la,DE,State
+ph,NAOC,12/6/2016,cr,179.63,,pl,sab,214,24'' OGODA -BRASS PIPELINE @ EMAGO-KUGBO.,4.7138056,6.4265278,ABOUA,ss,RI,State
+ph,NAOC,11/17/2016,cr,126.53,,pl,sab,215,24'' OGODA-BRASS PIPELINE ANYU RIVERS STATE,4.8429444,6.4681944,Abua-Odual,"la,ss",RI,State
+wa,SPDC,11/9/2016,cr,4712,75,pl,sab,216,48'' FORCADOS TERMINAL EXPORT PIPELINE AT OGULAGHA.,5.2680917,5.3000333,Burutu,of,DE,State
+wa,NPDC,11/3/2016,cr,210,,pl,sab,217,NPDC 28'' TFP BETWEEN ODIDI / BATAN ERESIGBENE COMMUNITY.,5.5441389,5.5155,Warri-South-West,sw,DE,State
+ph,SPDC,11/1/2016,cr,202,157,pl,sab,218,"18"" Assa-Rumuekpe PL @ Egbeda",5.2194167,6.7652,Emuoha,la,RI,State
+by,SPDC,10/27/2016,cr,316,,pl,ome,219,16'' NUN-RIVER/KOLOCREEK P/L @ AGBURA/OTUOKPOTI,4.8633889,6.2640556,Ogbia,ss,BY,State
+by,SPDC,10/23/2016,cr,390,,fl,sab,220,6'' KANBO WALL 6T FLOWLINE @ AGBIDAMA/EGBEMOANGALABIRI,4.886702,5.664786,Ekeremor,sw,BY,State
+ph,NAOC,10/21/2016,cr,133.35,,pl,sab,221,10'' OGODA -OSHIE DELIVERY LINE @ IDU-EKPEYE COMMUNITY.,5.1066667,6.5299167,Ahoada-West,ss,RI,State
+by,SPDC,10/17/2016,cr,182,,fl,sab,222,6'' KANBO WELL 7S AND 9T FLOWLINE @ AGBIDAMA/EGBEMOANGALABIRI,5.4701944,6.0862778,Isoko-North,sw,BY,State
+wa,NPDC,10/15/2016,cr,188.67,150.94,pl,sab,223,16'' ERIEMU - UPS DELIVERY LINE @ EKIUGBO,5.5146944,5.9570833,Ughelli-North,la,DE,State
+by,NAOC,10/4/2016,cr,1455,1000,pl,sab,224,14'' OGBOINBIRI/TEBIDABA P/L @ IKEINGHENBIRI,4.7256111,5.9726111,Southern-Ijaw,sw,BY,State
+ph,SPDC,9/18/2016,cr,222,30,pl,sab,225,12'' IMORIVER- OGALE PIPELINE OWAZA ABIA STATE,4.94354,7.18479,UKWA WEST,la,AB,State
+wa,NPDC,8/30/2016,cr,16720,7391,DELIVERY LINE,sab,226,NPDC 12'' EVWRENI UPS DELIVERY LINE @ OGOR - ETERI,5.4631111,5.9833611,Ughelli-North,ss,DE,State
+wa,NPDC,8/15/2016,cr,180,,pl,sab,227,28'' TF PIPELINE @ YEYE,5.4055556,5.3726944,Warri-South-West,sw,DE,State
+ph,Aiteo E&P,8/10/2016,cr,2585,808,pl,sab,228,30'' NCTL @ AWOBA.,4.5567222,6.8225,Degema,sw,RI,State
+wa,SPDC,7/31/2016,cr,417,187,pl,sab,229,"24'' TRANS - RAMOS PIPELINE "" ODIMODI",5.2850833,5.3713056,Burutu,sw,DE,State
+by,NAOC,7/28/2016,cr,100,,pl,sab,230,"18"" TEBIDABA/BRASS PIPELINE AT LASUKUGBENE.",4.5097222,6.0380556,SOUTHERN IJAW,sw,BY,State
+ph,SPDC,7/11/2016,cr,294,25,pl,sab,231,28'' TRANS NIGER PIPELINE AT GIO COMMUNITY,4.7101694,7.2342611,Tai,la,RI,State
+ph,SPDC,7/4/2016,cr,264,135,pl,sab,232,"18"" Trans Niger Pipeline @ Elele-Alimini",5.05667,6.70325,Emuoha,la,RI,State
+ph,SPDC,7/4/2016,cr,264,,pl,sab,233,18'' ASSA-RUMUEKPE @ ELELE-ALIMINI/IHUABA,5.0566722,6.7118806,Emuoha,la,RI,State
+by,NAOC,7/2/2016,cr,250,,pl,sab,234,18'' TEBIDABA/BRASS PIPELINE @ BENIKRUKRU,4.5345278,5.9884167,Southern-Ijaw,sw,BY,State
+wa,SPDC,6/3/2016,cr,957,190.19,pl,sab,235,48'' FORCADOS EXPORT PIPELINE @ OGULAHA / ISIAYE OKUNTU.,5.310841,5.335781,Burutu,sw,DE,State
+ph,SPDC,5/16/2016,cr,220,117,wh,sab,236,Obigbo W28 Wellhead @ Imeh Community,4.922042,7.068627,Obio/Akpor,la,RI,State
+ph,SPDC,5/14/2016,cr,330,147,pl,sab,237,"12"" imo river-Oghale pipeline Owaza Abia state",4.94641,7.184861,Ukwa-West,la,AB,State
+wa,CHEVRON,5/4/2016,cr,250,,mf,sab,238,OKAN VALVE PLATFORM.,5.5695333,5.1,Warri-South-West,of,DE,State
+ph,SPDC,5/4/2016,cr,304,,mf,cor,239,"IBAA MANIFOLD 8'' HEADER ,IBAA.",4.9546667,6.8028056,Emuoha,la,RI,State
+wa,NPDC,4/28/2016,cr,2664,1220,pl,eqf,240,16'' UPS TRUNKLINE OTOR - EDO,5.4738056,5.90025,Ughelli-South,ss,DE,State
+ph,SPDC,3/24/2016,cr,743,75,pl,sab,241,20''' kolo-creek- rumuekpe trans niger pipeline odua,4.928302,6.437303,Abua-Odual,la,RI,State
+ph,SPDC,3/21/2016,cr,178,107,pl,sab,242,12'' OGUTA - EGBEMA DELIVERY LINE @ EZIORSU,5.6223056,6.7580833,Oguta,la,IM,State
+ph,NAOC,3/20/2016,cr,189.5,113,wh,sab,243,"UMORU 6T WELL HEAD @ UTECHI COMMUNITY,ONELGA RIVERS STATE.",5.4051389,6.4896389,Ogba/Egbema/Ndoni,la,RI,State
+wa,SEEPCO,3/12/2016,cr,230,200,pl,sab,244,SEEPCO 8'' BENEKU / ASEMOKU EXPORT LINE @ UMU - UZOR OKPAI.,5.6929722,6.576,Ndokwa-East,ss,DE,State
+ph,SPDC,3/9/2016,cr,361,57,pl,,245,"8""BELEMA-SEGO DELIVERY LINE @ OFFOINAMA AKUKU TORU LGA",4.4766944,6.6573611,Akuku-Toru,sw,RI,State
+by,SPDC,2/18/2016,cr,114,,pl,sab,246,20” Opukushi-Brass Creek Pipeline at Tamogbene,4.9419444,5.6869722,Ekeremor,,BY,State
+by,NAOC,2/10/2016,cr,180.26,,pl,eqf,247,14'' OGBOINBIRI/TEBIDABA PIPELINE @ IKEINGHENBIRI,4.7056667,5.9685278,Southern-Ijaw,sw,BY,State
+wa,NPDC,1/29/2016,cr,300,,pl,cor,248,29'' TFP @ DIEBIRI - BATAN,5.56175,6.5460278,Warri-South-West,iw,DE,State
+wa,NPDC,1/25/2016,cr,150,,pl,cor,249,UTORROGU - UPS 16'' TRUNKLINE @ UGHEVWUGE,5.48575,5.9108333,Ughelli-South,la,DE,State
+by,NAOC,12/15/2015,cr,310.73,,pl,sab,250,24'' OGODA/BRASS PIPELINE @ IDEMA,4.6866389,6.4174167,Ogbia,ss,BY,State
+ph,SPDC,11/22/2015,cr,270,105,pl,other:,251,"28"" bomu-bonny pipeline@ Otokolomabie- Oloma",4.477719,7.196613,Bonny,sw,RI,State
+by,NAOC,11/13/2015,cr,515.32,6,fl,sab,252,TAYLOR CREEK 2L & S FLOWLINE @ AKUMONI,5.1243056,6.4590556,Yenagoa,la,BY,State
+ph,SPDC,11/9/2015,cr,103,32,pl,sab,253,"28"" NKPOKU-BOMU PIPELINE, B-DERE",4.6909806,7.2543806,Gokana,la,RI,State
+wa,NPDC,11/7/2015,cr,100,56,pl,sab,254,EKAKPAMRE 24'' UPS RAPELE TRUNK LINE,5.5344167,5.90125,Ughelli-South,la,DE,State
+wa,SEPLAT,11/5/2015,cr,738,38,trunkline,eqf,255,24'' AMUKPE - RAPELE TRUNKLINE @ ORERE - OLUBA.,5.64375,5.7142778,Warri-South,la,DE,State
+ph,NAOC,11/1/2015,cr,117,63,wh,sab,256,Mgbede 17T Wellhead,5.4805278,6.7314444,Ogba/Egbema/Ndoni,la,RI,State
+wa,NPDC,10/27/2015,cr,102,62,wh,sab,257,"NPDC Eriemu well 13 and 19 at Omavowe, Ughelli North delta state.",5.5361944,6.03725,Ughelli-North,"la,sw",DE,State
+wa,NPDC,9/24/2015,cr,250,,pl,sab,258,28'' TRANSFORCADOS PIPELINE @ OTEGHELE,5.5658056,5.6173056,Warri-South,sw,DE,State
+wa,NPDC,9/24/2015,cr,150,20,pl,sab,259,24'' UPS RAPELE DELIVERY EGBOKODO ITSEKIRI.,5.57575,5.0726111,Warri-South,la,DE,State
+wa,NPDC,9/17/2015,cr,152,124,pl,sab,260,24'' UPS RAPELE DELIVERY LINE @ NIGER CAT EKPAN,5.5766667,5.7333639,Uvwie,la,DE,State
+ph,SPDC,9/12/2015,cr,864,,pl,sab,261,28'' TNP @KPOGHOR,4.7148611,7.2253333,Tai,la,RI,State
+ph,SPDC,9/12/2015,cr,864,,pl,sab,262,28'' TNP @KPOGHOR,4.7185,7.2253333,Tai,la,RI,State
+ph,SPDC,9/11/2015,cr,637,,pl,sab,263,"20"" Trans Niger Pipeline at Ibaa",4.9545189,6.8080281,Emuoha,"la,ss",RI,State
+ph,SPDC,8/31/2015,cr,946,,pl,sab,264,"20"" RUMUEKPE-NKPOKU PIPELINE OMUIGWOR-IBAA",4.9535278,6.8379444,Emuoha,la,RI,State
+wa,SPDC,8/27/2015,cr,461,400,pl,sab,265,SEIBOU BULKLINE -4 AT AZAGBENE,4.8838333,5.8527778,Ekeremor,sw,BY,State
+wa,SEEPCO,8/24/2015,cr,180,30,pl,sab,266,8'' BENEKU / ASEOMOKU EXPORT LINE @ ODIGWE OKPAI,5.6910278,6.5455833,Ndokwa-East,sw,DE,State
+ph,SPDC,8/19/2015,cr,144,100,pl,sab,267,"28"" NKPOKU - BOMU (TPN) PIPELINE @ GIO IN TAI LGA OF RIVERS STATE.",4.8597778,7.1358889,Obio/Akpor,la,RI,State
+ph,TOTAL,8/16/2015,cr,1200,20,pl,sab,268,"KM 25/26 OBAGI-RUMUEKPE, 12"" CRUDE OIL EXPORT PIPELINE, IMOGU, RUMUEKPE COMMUNITY, RIVERS STATE",5.0109722,6.69175,Emuoha,la,RI,State
+by,SPDC,8/12/2015,cr,132.5,,pl,sab,269,"12"" Adibawa – Okordia Pipeline at Ikarama",5.1545278,6.4520278,Yenagoa,la,BY,State
+ph,NAOC,7/26/2015,cr,107.1,,fl,sab,270,Taylor Creek 2SS Flowline at Akomoni Community,5.1253889,6.4420833,Yenagoa,ss,BY,State
+wa,NPDC,7/23/2015,cr,150,,pl,sab,271,"24"" Eriemu UPSA Delivery Line @ Ekigbo, Ughelli North L.G.A., Delta State.",5.52,5.9969444,Ughelli-North,la,DE,State
+ph,SPDC,7/23/2015,cr,233,,wh,sab,272,ADIBAWA WELL 16T WELLHEAD,5.2026439,6.482853,Yenagoa,"la,sw",RI,State
+wa,NPDC,7/20/2015,cr,120,63,pl,eqf,273,"NPDC 10"" Ogini Eriemu Delivery line@Uramudhy community, isoko north LO.G.A., Delta State.",5.5662222,6.2682778,Isoko-North,la,DE,State
+ph,NAOC,7/20/2015,cr,1894,,pl,sab,274,24'' OGODA-BRASS PIPELINE AT EMAGO-KUGBO COMMUNITY IN ABUA-ADUAL LGA OF RIVERS STATE,4.7078611,6.4245,Ogbia,"iw,la,ss",RI,State
+wa,NPDC,7/17/2015,cr,300,190,pl,sab,275,"NPDC 16"" Uzere-Eriemu Delivery line@ Emede, Isoko south L.G.A., Delta State.",5.4338056,6.17225,Isoko-South,la,DE,State
+ph,SPDC,7/7/2015,cr,948,,pl,sab,276,"20"" KOLOCREEK-RUMUEKPE TRANS NIGER PIPELINE,ABUA/ODUAL LGA, RIVERS STATE.",4.9280278,6.4355833,Ogbia,sw,RI,State
+ph,NAOC,6/29/2015,cr,1815,,other: STOCK TANK,sab,277,"EBOCHA CRUDE OIL STOCK TANK 3, EBOCHA OIL CENTRE, OKWUZI.",5.46075,6.6973333,Ogba/Egbema/Ndoni,la,RI,State
+ph,NAOC,6/28/2015,cr,17386,,other: STOCK TANK,sab,278,"EBOCHA CRUDE OIL STOCK TANK 1, EBOCHA OIL CENTRE, OKWUZI.",5.4596944,6.6969167,ONELGA,la,RI,State
+ph,NAOC,6/18/2015,cr,162,85,wh,sab,279,UMUORU 6T WELLHEAD AT THE WELLHEAD LOCATION.,5.4051389,6.4896389,Ogba/Egbema/Ndoni,la,RI,State
+ph,SPDC,6/4/2015,cr,150.44,10,pl,sab,280,"28'' NKPOKU-BOMU PIPELINE,B-DERE",4.6926389,7.25375,Gokana,la,RI,State
+ph,SPDC,6/2/2015,cr,306,,pl,sab,281,20'' kolocreek-Rumuekpe pipeline,4.92787,6.43441,Abua-Odual,sw,RI,State
+ph,TOTAL,5/19/2015,cr,100,72,pl,sab,282,km 25-26 obagi rumekpe export line,5.02575,6.6924444,Emuoha,la,RI,State
+wa,NPDC,5/14/2015,cr,100,,pl,sab,283,"NPDC 6"" OZIENGBE / OREDO EXPORT PIPELINE",6.0946111,5.5291111,Ikpoba-Okha,sw,ED,State
+ph,SPDC,5/2/2015,cr,192,160,fl,sab,284,agbada 2 well 34s flowline,4.9292778,7.0243611,Obio/Akpor,la,RI,State
+wa,NPDC,4/21/2015,cr,240,189,Delivery line,sab,285,"8"" UZERE DELIVERY LINE",5.3906111,6.21375,Isoko-South,la,DE,State
+ph,SPDC,4/19/2015,cr,189,114,pl,sab,286,30'' NEMBE CREEK PIPELINE AT BILLE.,4.5632778,6.8505,Degema,sw,RI,State
+wa,NPDC,3/30/2015,cr,285,283,Trunk line,sab,287,"12"" EVWRENI UPS TRUNKLINE @ EDJEKOTA/ OGOR",5.4301944,6.0016944,Ughelli-North,la,DE,State
+wa,NPDC,3/22/2015,cr,1200,628.93,pl,sab,288,ERIEMU UPS DELIVERY LINE @ EKIUGBO,5.5181111,5.6378056,Ughelli-North,"sw,ss",DE,State
+wa,NPDC,3/11/2015,cr,120,114,pl,sab,289,12' KOKORI ERIEMU DELIVER LINE @ OTERI AGBARA,5.5686944,6.0605556,Ughelli-North,la,DE,State
+ph,SPDC,3/3/2015,cr,440,,pl,sab,290,"SPDC 10"" Diebu Creek-Nun River Delivery Line @ Oporoma, Bayelsa State.",4.77925,6.1064722,Southern-Ijaw,sw,BY,State
+ph,SPDC,3/3/2015,cr,440,,pl,sab,291,"SPDC 10"" Diebu Creek-Nun River Delivery Line @ Oporoma, Bayelsa State.",4.77825,6.1063889,Southern-Ijaw,sw,BY,State
+wa,NPDC,3/1/2015,cr,250,,pl,sab,292,"NPDC 24"" ERIEMU DELIVERY LINE @ EKREJEBOR",5.5215278,6.0300278,Ughelli-North,sw,DE,State
+ph,SPDC,2/18/2015,cr,189,182,pl,sab,293,"8"" umuechem-nkpoku omunei etche.",4.9828889,7.0239167,Etche,la,RI,State
+ph,NAOC,2/14/2015,cr,200,,pl,eqf,294,"14"" Ogboinbiri/Tebidaba PL @ Ikebiri",4.6803611,5.9619167,Southern-Ijaw,sw,BY,State
+ph,NAOC,2/10/2015,cr,109,,pl,sab,295,"18""TEBIDABA BRASS PIPELINE AT BABERAGBENE",4.5176944,6.0236389,Southern-Ijaw,sw,BY,State
+ph,NAOC,2/9/2015,cr,123,,pl,sab,296,"18""TEBIDABA/BRASS PIPELINE AT OYEREGBENE",4.4919167,6.0848611,Brass,sw,BY,State
+wa,NPDC,2/5/2015,cr,100,,pl,sab,297,28'' TRANSFORCADOS PIPELINE @ DIEBIRI BATAN POINT A.,5.5635833,5.5923056,Warri-South-West,sw,DE,State
+wa,NPDC,2/5/2015,cr,100,,pl,sab,298,28'' TRANSFORCADOS PIPELINE @ EKEREMO.,5.4736667,5.44475,Warri-South-West,sw,DE,State
+ph,SPDC,1/29/2015,cr,196,105,pl,sab,299,"28'' TRANS NIGER PIPELINE @ BODO WEST, RIVERS STATE",4.5729444,7.2538056,Bonny,sw,RI,State
+wa,SPDC,1/23/2015,cr,549,,fl,eqf,300,SEIBOU WELL 2S,4.8274167,5.9118611,Southern-Ijaw,"sw,iw",BY,State
+ph,SPDC,1/18/2015,cr,217,,pl,sab,301,"30""NCTL@Opomakiri",4.5748056,7.0287222,Degema,iw,RI,State
+wa,NPDC,1/5/2015,cr,220,,pl,eqf,302,28'' TRANSFORCADOS PIPELINE @ TUAFT CREEK IN YEYE COMMUNITY,5.4208333,5.3795833,Burutu,"la,sw",DE,State
+wa,NPDC,1/3/2015,cr,350,,Trunkline,sab,303,24'' UPS RAPELE TRUNKLINE @ EGBOKODO - ITSEKIRI.,5.5774167,5.6824167,Warri-South,sw,DE,State
+wa,NPDC,12/29/2014,cr,108,,pl,sab,304,"NPDC 6"" OZIENGBE / OREDO EXPORT PIPELINE",6.0945278,5.5345833,Ikpoba-Okha,la,DE,State
+wa,NPDC,12/28/2014,cr,200,,pl,sab,305,"28"" TRANS - FORCADOS PIPELINE @ OFUOGBENE AND YEYE",5.4731111,5.4456944,Burutu,sw,DE,State
+wa,NPDC,12/5/2014,cr,5000,,pl,sab,306,"28"" TRANS FORCADOS PIPELINE @ DIEBIRI BATAN",5.5625,5.5507778,Warri-South-West,sw,DE,State
+ph,SPDC,11/28/2014,cr,121,40,pl,sab,307,28'' bomu - bonny pipe line @ mogho,4.65025,7.2778333,Gokana,la,RI,State
+ph,SPDC,11/26/2014,cr,114,75,pl,sab,308,28'' NKPOKU - BOMU PIPELINE @ B-DERE,4.6895278,7.2558056,Gokana,la,RI,State
+wa,NPDC,11/25/2014,cr,5000,,pl,sab,309,"28"" TRANS FORCADOS PIPELINE @ DIEBIRI / BATAN",5.56325,5.5948056,Warri-South-West,sw,DE,State
+ph,NAOC,11/25/2014,cr,290,,pl,sab,310,"18"" TEBIDABA/BRASS P/L @ LASUKUGBENE",4.5088889,6.0407222,Southern-Ijaw,sw,BY,State
+ph,NAOC,11/24/2014,cr,250,,pl,sab,311,"14"" OGBOINBIRI/TEBIDABA P/L @ IKEBIRI",4.7054444,5.9685278,Southern-Ijaw,"sw,ss",BY,State
+ph,SPDC,11/21/2014,cr,105,32,pl,cor,312,24'' OLD NEMBE CREEKLINE TRUNK NCTL@SEGO,4.4995278,6.6123056,Akuku-Toru,sw,RI,State
+ph,SPDC,11/16/2014,cr,245,,pl,sab,313,8'' Odeama-Tora delivery pipeline Nembe Bassambiri,4.4425,6.5041667,Brass,sw,BY,State
+ph,SPDC,11/12/2014,cr,350,133,pl,sab,314,"12"" IMO RIVER-OGALE PIPELINE @ OWAZA",4.9804444,7.1748889,Etche,ss,AB,State
+wa,NPDC,10/28/2014,cr,150,,pl,sab,315,NPDC 16'' OLOMORO - ERIEMU DELIVERY LINE @ OLOMORO.,5.4565278,6.1389167,Isoko-South,ss,DE,State
+wa,NPDC,10/14/2014,cr,220,,pl,sab,316,"28'' TRANSFORCADOS PIPELINE @ CHANOMI-WEST, YEYE COMMUNITY.",5.4429722,5.3925833,Warri-South-West,iw,DE,State
+ph,SPDC,10/5/2014,cr,1200,,mf,sab,317,OKORDIA MANIFOLD,5.1541667,6.4522778,Yenagoa,la,RI,State
+ph,SPDC,10/1/2014,cr,280,261,pl,sab,318,"10"" Diobu Creek-Nun River DL @ Oporoma",4.7972222,6.1077778,Southern-Ijaw,ss,BY,State
+wa,Heritage,9/29/2014,cr,586,314.46,other:Flare stack,eqf,319,HERITAGE KOKORI FLOWSTATION / FLARESTACK @ ATAGBUGHWE/ EROHIKO COMMUNITY.,5.6517778,6.0698889,Ughelli-North,"la,ss",DE,State
+ph,NAOC,9/20/2014,cr,630,,pl,sab,320,"10"" Kwale/Akri Pipeline Riser@ Odugiri. the 4"" Flange on the Riser was removed.",5.6370278,6.6304444,Ogba/Egbema/Ndoni,"ss,iw,la",RI,State
+ph,SPDC,9/19/2014,cr,102,10,pl,sab,321,"28"" Nkpoku-Bomu pipeline @ B-Dere",4.6912222,7.2543056,Gokana,"iw,la",RI,State
+wa,NPDC,9/14/2014,cr,120,,pl,cor,322,"CHANOMI EAST CHAMBER (28"" TRANS FORCADOS PIPELINE).",5.4607222,5.4104444,Burutu,sw,DE,State
+ph,SPDC,8/27/2014,cr,120,35,pl,cor,323,"Old 24"" Nembe-Creek Pipeline@Luckyland",4.50625,6.6873333,Akuku-Toru,sw,RI,State
+ph,SPDC,8/27/2014,cr,120,105,pl,cor,324,"24"" nctl sanbarth manifold",4.5061944,6.6873333,Akuku-Toru,sw,RI,State
+ph,SPDC,8/9/2014,cr,294,206,pl,sab,325,"12"" IMO RIVER-OGALE TRUNKLINE AT KOMKOM",4.8726944,7.1375833,Oyigbo,ss,RI,State
+ph,SPDC,8/7/2014,cr,102,82,pl,sab,326,24'' TORA-SERGIO (NCTL) P/L @ OWANGAIN RIVERS,4.4881667,6.5883056,Akuku-Toru,sw,RI,State
+wa,NPDC,8/1/2014,cr,190,,fs,cor,327,"Abura 4"" Flowline at Otujeremi, Ughelli South L.G.A., Delta State.",5.43525,5.8776389,Ughelli-South,la,DE,State
+ph,SPDC,7/13/2014,cr,390,390,fs,eqf,328,"Nembe 2 Flowstation @ Aweresuo, Bayelsa State",4.4525556,6.32575,Nembe,sw,BY,State
+uy,MPN,6/29/2014,cr,30260,7000,st,eqf,329,QIT Process area,4.5430278,8.0131111,Ibeno,la,AK,State
+ph,SPDC,6/25/2014,cr,367,317,pl,sab,330,"10"" DIEBU CREEK-NUN RIVER PIPELINE AT ONYOMA/ENIWARI",4.7526944,6.1028056,Southern-Ijaw,sw,BY,State
+ph,SPDC,6/23/2014,cr,180,,fl,cor,331,Nembe 1 well 23T flowline @ Nembe creek,4.4356944,6.322,Nembe,sw,BY,State
+ph,NAOC,6/22/2014,cr,150,100,pl,sab,332,"18"" Tebidaba Brass Pipeline at Oyeregbene in Bayelsa State",4.5047222,6.0570833,Southern-Ijaw,sw,BY,State
+ph,SPDC,6/21/2014,cr,166,,pl,sab,333,"28"" BOMU BONNYTRANS NIGER PIPELINE AT OWOKIRI",4.5510833,7.2486111,Bonny,sw,RI,State
+ph,SPDC,6/12/2014,cr,629,,mf,sab,334,"12"" Adebawa-Okordia Deliveryline @ Okordia Manifold",5.1544167,6.4521111,Yenagoa,"la,iw",BY,State
+wa,NPDC,6/10/2014,cr,187,,pl,sab,335,28'' TRANS-FORCADOS PIPELINE (TFP) @ OTEGHELE.,5.5941944,5.6181111,Warri-South,iw,DE,State
+ph,SPDC,5/22/2014,cr,251,5.4,pl,sab,336,10'' Diebu Creek-Nun River Delivery line @ Oporoma,4.7956389,6.1075278,Southern-Ijaw,sw,BY,State
+ph,SPDC,5/21/2014,cr,157,130,pl,sab,337,"28"" NKPOKU - BOMU PIPELINE, EKPORO.",4.7220278,7.2213889,Eleme,la,RI,State
+ph,SPDC,5/21/2014,cr,657,480,pl,sab,338,"28"" NKPOKU- BOMU PIPELINE, EKPORO,",4.7206667,7.2228611,Eleme,la,RI,State
+ph,NAOC,5/12/2014,cr,250,,pl,sab,339,"18"" Teb/Brass Pipeline@Lasukugbene",4.5074722,6.0470833,Southern-Ijaw,sw,BY,State
+ph,SPDC,5/9/2014,cr,143,125,pl,cor,340,"10"" Ekulama delivery line at Ekulama1",4.5439444,6.6941111,Akuku-Toru,sw,RI,State
+wa,SPDC,5/7/2014,cr,266,,wh,sab,341,YOKRI WELL HEAD 79,5.42975,5.2707222,Warri-South-West,sw,DE,State
+ph,SPDC,4/28/2014,cr,221,156,pl,sab,342,"28"" Nkpoku-bomu p/l @ B-dere",4.6943611,7.2528889,Gokana,la,RI,State
+ph,SPDC,4/24/2014,cr,5604,5061,pl,sab,343,"30"" Nembe Creek pipeline @ Bille",4.5678056,6.8721111,Degema,sw,RI,State
+ph,SPDC,4/13/2014,cr,296,56.6,pl,sab,344,"16"" Nun River-Kolo CreekTrunk Line at Aguobiri",4.8216944,6.1397778,Southern-Ijaw,sw,BY,State
+ph,NAOC,4/7/2014,cr,150,,pl,sab,345,"18""TEBIDABA/BRASS PIPELINE AT OYEREGBENE (31).",4.5055,6.0550278,Southern-Ijaw,sw,BY,State
+ph,NAOC,4/3/2014,cr,100,,pl,sab,346,"18"" Tebidaba-Brass pipeline @ Benikrukru 4",4.5371667,5.9793889,Southern-Ijaw,sw,BY,State
+ph,SPDC,3/25/2014,cr,106,80,pl,eqf,347,10'' DIEBU CREEK MANIFOLD-NUN RIVER MANIFORD PIPELINE@PEREMABIRI,4.6613611,6.0786111,Southern-Ijaw,sw,BY,State
+wa,NPDC,3/20/2014,cr,120,,fl,ome,348,"ABURA F/L @ OGBE-UDU / OKOLOR UBURHE, UDU LGA, DELTA STATE.",5.4325833,5.8239444,Udu,sw,DE,State
+ph,SPDC,3/13/2014,cr,275,231,pl,eqf,349,10' DIEBU CREEK - NUN RIVER PIPELINE @ PEREMABIRI,4.6612222,6.0784722,Southern-Ijaw,sw,BY,State
+ph,NAOC,3/10/2014,cr,147,40,wh,sab,350,Ebegoro 12 Wellhead,5.3646944,6.6668278,Ogba/Egbema/Ndoni,la,RI,State
+ph,NAOC,3/9/2014,cr,2450,2210,pl,sab,351,"18'' TEBIDABA/BRASS PIPELINE @ BABEREGBENE, BAYELSA STATE.",4.5198889,6.0201944,Southern-Ijaw,"sw,la,iw",BY,State
+ph,NAOC,3/1/2014,cr,1300,1100,pl,sab,352,"18'' TEBIDABA/BRASS PIPELINE @ KALATORU, BAYELSA STATE",4.5431944,5.9580833,Southern-Ijaw,sw,BY,State
+ph,NAOC,2/18/2014,cr,134.9,,pl,eqf,353,"24"" OGODA /BRASS P/L @ OKOROBA BUT CONFIRM AS AGRISABA",4.6099167,6.3921667,Nembe,ss,BY,State
+ph,NAOC,2/17/2014,cr,1000,82,pl,sab,354,"18"" Tebidaba / Brass pipeline kalatoru",4.5436111,5.9570833,Southern-Ijaw,sw,BY,State
+ph,SPDC,2/17/2014,cr,210,195,pl,sab,355,"18"" Asa-Rumuekpe Pipeline at Elele- Alinimi and Ihuaba",5.0535833,6.7029167,Emuoha,la,RI,State
+ph,SPDC,1/27/2014,cr,302,287,mf,sab,356,"Okordia Manifold, Bayelsa State.",5.1541944,6.4522778,Yenagoa,"la,ss",BY,State
+ph,SPDC,1/25/2014,cr,236,171,pl,sab,357,30''NCTL AT CAWTHORNE CHANNEL,4.5770833,6.9745556,Degema,sw,RI,State
+wa,NPDC,1/20/2014,cr,100,,pl,cor,358,"28"" Transforcados Odidi/Kantu pipeline.",5.5313889,5.4936944,Warri-South-West,sw,DE,State
+ph,SPDC,1/19/2014,cr,234,228,pl,sab,359,"28"" Nkpoku-Bomu Pipeline at Ekporo, Eleme LGA, Rivers State.",4.7218056,7.2216667,Eleme,la,RI,State
+ph,SPDC,1/17/2014,cr,270,200,pl,sab,360,"28"" Nkpoku-Bomu Pipeline at Ekporo, Eleme LGA, Rivers State.",4.7234722,7.2197778,Eleme,la,RI,State
+wa,NPDC,1/9/2014,cr,100,,pl,sab,361,"oziengbe oml III export pipeline at ajatiton, Ikpoba-Okah, Edo State.",6.0921389,5.5184444,Ikpoba-Okha,sw,ED,State
+ph,SPDC,12/23/2013,cr,313,238,pl,sab,362,"16"" NUN RIVER-KOLO CREEK T/L @ OPOROMA",4.8063611,6.1019444,Southern-Ijaw,sw,BY,State
+ph,NAOC,12/12/2013,cr,150,,pl,sab,363,"18"" TEB/BRASS P/L @ IGBEMATORU",4.5276111,6.0049167,Southern-Ijaw,sw,BY,State
+wa,SEEPCO,12/2/2013,cr,350,,Barge,eqf,364,"Sunken barge (Seepco base) Ramos river, Agge in Burutu L.G.A., Delta State.",5.1507222,6.6299167,Ahoada-East,co,DE,State
+ph,SPDC,12/2/2013,cr,163,4,pl,sab,365,"6"" AWOBA D/l @ AWOBA",4.5502778,6.8141667,Degema,sw,RI,State
+,NAOC,11/27/2013,cr,224.55,90,,eqf,366,SBM OFFSHORE BRASS,4.06717,6.26844,,of,BY,State
+ph,SPDC,11/26/2013,cr,194,50,pl,cor,367,"10"" EKULAMA II D/L @ EKULAMA",4.5405278,6.6906389,Akuku-Toru,sw,RI,State
+ph,SPDC,11/21/2013,cr,332,215,pl,sab,368,"28"" BOMU- BONNY TRANS NIGER PIPELINE @ KPOR",4.6557222,7.2768611,Gokana,la,RI,State
+ph,NAOC,11/21/2013,cr,150,,pl,sab,369,18'' TEB/BRASS PIPELINE @ BABARAGBENE,4.5144722,6.0288056,Southern Ijaw,sw,BY,State
+ph,NAOC,11/20/2013,cr,250,,,sab,370,18'' TEB/BRASS P/L @ IGBEMATORU,4.5261944,6.0078889,Southern Ijaw,sw,BY,State
+ph,SPDC,11/18/2013,cr,210,3.8,pl,sab,371,"14"" OKORDIA RUMUEKPE TRANS NIGER PIPELINE @ RUMUEKPE",4.9943611,6.6683056,Emuoha,la,RI,State
+,NAOC,11/17/2013,cr,100,88,pl,sab,372,18'' TEB/BRASS PIPELINE @ KAMBORRO,4.5643333,5.9411389,Southern Ijaw,sw,BY,State
+,SPDC,11/12/2013,cr,315,113.2,,sab,373,"6"" OBIGBO NORTH - OGALE DELIVERY LANE @ OGALE",4.838389,7.156389,Eleme,la,RI,State
+ph,SPDC,11/6/2013,cr,399,227,pl,sab,374,"24"" TNPL @ KPOR",4.655639,7.276833,Gokana,la,RI,State
+ph,SPDC,11/2/2013,cr,101,98,,sab,375,"14"" OKORDIA-RUMUEKPE TRUNKLINE @ IKARAMA",5.153694,6.452722,Yenagoa,la,BY,State
+,NAOC,10/27/2013,cr,100,88,,sab,376,18' TEBIDABA/BRASS PIPELINE AT LASUKUGBENE,4.5090833,6.0400278,Southern Ijaw,sw,BY,State
+ph,SPDC,10/19/2013,cr,169,156,pl,sab,377,"14"" OKORDIA-RUMUEKPE PIPELINE",5.119,6.487167,Ahoada West,la,RI,State
+ph,SPDC,10/9/2013,cr,2249,1870,pl,eqf,378,"24""TNP AT NONWA",4.744722,7.244,Tai,la,RI,State
+,NAOC,9/20/2013,cr,250,,,sab,379,18'' OBAMA/BRASS PIPELINE @ ONITORU,4.43175,6.2694167,Nembe,sw,BY,State
+ph,SPDC,9/17/2013,cr,235,130,,sab,380,"12"" IMO RIVER2- OGALE PIPELINE @ OWAZA",4.9464444,7.1848333,Ukwa-West,la,AB,State
+ph,SPDC,9/17/2013,cr,648,589,,sab,381,"28"" TNP @ OLOMA",4.481889,7.198889,Bonny,sw,RI,State
+,SPDC,9/10/2013,cr,1330,1300,,sab,382,"28"" BOMU-BONNY TNP @ BODO WEST",4.592417,7.257194,GOKANA,sw,RI,State
+ph,NAOC,9/3/2013,cr,100,,,sab,383,18''TEBIDABA/BRASS PIPELINE @ KOMBORRO BAYELSA STATE,4.5476389,5.9412778,Southern Ijaw,sw,BY,State
+,NAOC,8/14/2013,cr,264,89,,sab,384,"18"" TEB/BRASS P/L @ KALATORU",4.5429444,5.9582778,Southern Ijaw,sw,BY,State
+wa,NPDC,8/13/2013,cr,150,,fl,eqf,385,"Abura 4"" Flowline at Udu, Udu local government.",5.4186111,5.8221944,Udu,"sw,ss",DE,State
+,NAOC,8/9/2013,cr,250,,,sab,386,"18"" TEB/BRASS P/L @ IGBEMATORU",4.5262778,6.0076389,Southern Ijaw,sw,BY,State
+,SPDC,8/7/2013,cr,166,,,sab,387,CAWTHERNE CHANNEL LOOP TIE IN MANIFOLD @ ILOMATORU,4.550611,7.060583,Bonny,sw,RI,State
+wa,SEEPCO,8/3/2013,cr,150,,other:barge,other:,388,NIATAGBENE / AGGE - EGBEPOU COMMUNITY.,5.1383889,5.3859722,Burutu,ns,DE,State
+wa,SEEPCO,8/3/2013,cr,943.4,,Barge,other:,389,"Agge - Egbepou community, Burutu L.G.A., Delta State. (Barge accident)",5.1383889,5.3859722,Burutu,ns,"DE,BY",State
+ph,SPDC,7/28/2013,cr,196,45,,sab,390,28'' BOMU-BONNY PIPELINE @ FREETOWN,4.513389,7.231056,Bonny,sw,RI,State
+ph,SPDC,7/23/2013,cr,266,179,,sab,391,"12"" IMO RIVER-OGALE P/L @ OWAZA",4.945056,7.184806,Ukwa-West,la,AB,State
+ph,SPDC,7/9/2013,cr,1070,187,,sab,392,"20'', 36'' RUMUEKPE-NKPOKU PIPELINE@ IBAA",4.95375,6.833,Emuoha,la,RI,State
+ph,NAOC,7/7/2013,cr,400,320,,sab,393,14''AKRI/EOC PIPELINE @ MMAHU(ATAKU),5.5852778,6.7003333,Ohaji/Egbema,la,IM,State
+ph,SPDC,7/1/2013,cr,112,,,sab,394,IMO RIVER WELL 2S F/L AT IGIRIUKWU,4.980139,7.183444,Etche,la,RI,State
+,SPDC,6/29/2013,cr,166,105,,sab,395,"28"" BOMU-BONNY TNP AT BODO WEST",4.587028,7.256472,GOKANA,sw,RI,State
+,SPDC,6/28/2013,cr,768,500,,sab,396,"36"" TNPL @ ENEKA",4.898833,7.051028,Obio/Akpor,la,RI,State
+ph,NAOC,6/24/2013,cr,400,300,,sab,397,18'' OBAMA/BRASS PIPELINE@ OLUGUAMA,4.5666389,6.2713889,Nembe,sw,BY,State
+,SPDC,6/19/2013,cr,2699,510,,sab,398,"28"" NKPOKU-BONNY TRANS NIGER PIPELINE @BODO CITY",4.574694,7.254139,Bonny,sw,RI,State
+,SPDC,6/9/2013,cr,508,265,,sab,399,"28"" BOMU-BONNY T/L @ BODO WEST",4.584778,7.256222,Bonny,sw,RI,State
+wa,SPDC,6/7/2013,cr,135,,,sab,400,OTUMARA,5.615472,5.172833,Warri-South-West,,DE,State
+ph,SPDC,6/4/2013,cr,447,11,,sab,401,"14"" ADIBAWA-OKORDIA-RUMUEKPE P/L @ IKARAMA",5.1531947,6.4531669,Yenegoa,la,BY,State
+ph,SPDC,6/3/2013,cr,110,86,,sab,402,"10"" DIEBU CREEK-NUN RIVER D/L @ ONYEMA",4.767972,6.104556,Southern Ijaw,sw,BY,State
+wa,SPDC,5/15/2013,cr,990,,,sab,403,ILLEGAL LOCAL REFINERIES,,,,,DE,State
+wa,SPDC,5/5/2013,cr,135,,,sab,404,UTUMARA,5.625778,5.164306,Warri-South-West,,DE,State
+ph,SPDC,4/29/2013,cr,124,,,sab,405,"30"" NCTL AT BILLE",4.56475,6.845611,Degema,sw,RI,State
+,SPDC,4/24/2013,cr,442,438,,sab,406,"24"" NKPOKU-BOMU T/L @ ELELENWA",4.857083,7.099722,Obio/Akpor,la,RI,State
+ph,NAOC,4/18/2013,cr,198,180,,eqf,407,OSHIE 6LS F/L CLOSE TO OSHIE 6 WELL LOCATION @ OSHIE,5.1007222,6.4951944,Ahoada-West,la,RI,State
+wa,SPDC,4/5/2013,cr,101.64,,pl,sab,408,20'' OPUKUSHI/BRASS CREEK TRUNKLINE,4.949139,5.669186,Ekeremor,sw,DE,State
+,NAOC,3/30/2013,cr,200,,,ytd,409,"24"" OGADA/BRASS P/L @ FANTUO",4.3468889,6.3470278,Brass,sw,BY,State
+ph,SPDC,3/26/2013,cr,658,42,pl,sab,410,"12"" IMOR T/L @ KOMKOM",4.876667,7.172611,Oyigbo,la,RI,State
+ph,SPDC,3/22/2013,cr,310,275,,sab,411,"12"" OGUTA-EGBEMA T/L @ OBIAKPU",5.573028,6.76075,Ohaji/Egbema,la,IM,State
+,ADDAX,3/10/2013,cr,175,,,sab,412,OSSU-IZOMBO BULKLINE ROW,5.6263056,6.79525,Oguta,sw,IM,State
+,SPDC,3/3/2013,cr,634,604,,sab,413,"30""NCTL & 28"" NCTL RIGHT OF WAY NEAR AWOBA",4.567889,6.861417,Degema,sw,RI,State
+,SPDC,2/26/2013,cr,155,,,sab,414,AWOBA NORTH WEST 1 F/L,4.561056,6.751611,Akuku Toru,sw,RI,State
+,SPDC,2/21/2013,cr,105,79,,sab,415,"12"" IMOR OGALE T/L @ UZUAKU",4.894667,7.177056,Ukwa West,la,AB,State
+,SPDC,2/13/2013,cr,141,,,other:,416,DIEBU CREEK W2T SLOT,4.652306,6.084333,Southern Ijaw,sw,BY,State
+,NAOC,2/13/2013,cr,170,164,,sab,417,"24"" OGODA/BRASS P/L @ EWOAMA",4.3305278,6.2816111,Brass,sw,BY,State
+ph,SPDC,1/12/2013,cr,201,71,,sab,418,"8"" ISIMIRI D/L AT UZUAKU",4.889861,7.175611,Ukwa-West,la,AB,State
+ph,NAOC,12/29/2012,cr,110,50,,sab,419,"18"" TEB/BRASS PL AT TOMKIRI",4.4099444,6.2502222,Nembe,sw,BY,State
+,SPDC,12/20/2012,cr,312,296,,sab,420,"8"" ISIMIRI-IMR GATE PL",4.887028,7.188611,Ukwa West,la,AB,State
+,NAOC,12/19/2012,cr,400,50,,sab,421,"18"" TEB/BRASS PL AT IGBEMATORU",4.5185278,6.0223333,Southern Ijaw,sw,BY,State
+,NAOC,12/19/2012,cr,200,50,,sab,422,"18"" TEB/BRASS PL AT IGBEMATORU",4.5141111,6.0293333,Southern Ijaw,sw,BY,State
+wa,SPDC,12/18/2012,cr,155,,other:Trunk line,cor,423,28'' TRANS FORCADOS PIPELINE AROUND ODIDI COMMUNITY,5.507917,5.476278,Warri-South-West,sw,DE,State
+,SPDC,12/15/2012,cr,721,530,,sab,424,"6"" OBIGBO NORTH-NEW ELELENWO PL",4.854694,7.140528,Obio/Akpor,la,RI,State
+wa,SPDC,12/7/2012,cr,150,,pl,ome,425,"8'' UGHELLI WEST - UPS DELIVERY LINE @ EKAKPAMRE, UGHELLIS SOUTH.",5.5367222,5.8799444,Ughelli-South,la,DE,State
+wa,SPDC,11/23/2012,cr,611,,other:trunkline,sab,426,20'' OTUMARA - ESCRAVOS PIPELINE @ ESCRAVOS.,5.5740278,5.2063056,Warri-South-West,sw,DE,State
+wa,SPDC,11/23/2012,cr,611,,,sab,427,"20"" Otumara-Escravos P/L",5.574028,5.206306,Warri-South-West,sw,DE,State
+,NAOC,11/20/2012,cr,130,20,,sab,428,"18"" TEB/BRASS P/L @ OYEREGBENE 11A&B",4.5062778,6.0516389,Southern Ijaw,sw,BY,State
+,SPDC,11/16/2012,cr,603,,,sab,429,IMOR WELL 64S F/L @ OWAZA,4.980056,7.179306,UKWA WEST,la,AB,State
+,SPDC,11/13/2012,cr,365.8,,,sab,430,IMO RIVER I WELL 18 F/L @ OWAZA,4.981167,7.17325,UKWA EAST,la,AB,State
+,SPDC,11/10/2012,cr,111,75,,sab,431,"24"" TNP@ GIO",4.703778,7.243222,TAI,la,RI,State
+,MPN,11/9/2012,cr,228.3,,pl,eqf,432,Idoho PP,4.3681667,7.9441667,,of,AK,State
+,NAOC,11/3/2012,cr,266.44,,,other:,433,AKRI F/L STATION WASTE PIT @ AKRI,5.6326944,6.6708056,Oguta,la,IM,State
+,SPDC,11/2/2012,cr,511.58,359,,sab,434,"8"" OBIGBO-KOMKOM D/L @ UMUSIA",4.859806,7.135667,OYIGBO,la,RI,State
+,SPDC,11/1/2012,cr,4688.12,3675,,sab,435,"12"" IMOR-OGALE D/L AT KOMKOM",4.876833,7.172583,Oyigbo,la,RI,State
+wa,NAOC,10/29/2012,cr,100,,,other:,436,OKPAI,5.6584722,6.6613056,Ogba/Egbema/Ndoni,la,DE,State
+wa,NAOC,10/29/2012,cr,529,,,eqf,437,AGWE ETITI,5.6406111,6.619,Ogba/Egbema/Ndoni,la,DE,State
+wa,SPDC,10/24/2012,cr,571,,,sab,438,"20"" Otumara-Escravos P/L@ Saghara.",5.568611,5.205361,Warri-South-West,sw,DE,State
+wa,SEPLAT,10/22/2012,cr,100,,other:,eqf,439,"24"" AMUKPE RAPELE T/L @ MEREJE",5.8097222,5.9175,Sapele,"la,iw,sw",DE,State
+,NAOC,10/21/2012,cr,251,180,,ome,440,"18"" EOC-OGODA D/L",5.3888333,6.6794167,Ogba/Egbema/Ndoni,la,RI,State
+wa,SPDC,10/7/2012,cr,937,87.5,pl,sab,441,28'' TRANS-FORCADOS PIPELINE(TFP).,,,WARRI SOUTH,sw,DE,State
+,SPDC,9/14/2012,cr,155,111,,eqf,442,"16"" EGBENA - ASSA TRUNKLINE AT UMUDIKE",5.449778,6.766667,Ohaji/Egbema,la,IM,State
+ph,NAOC,9/4/2012,cr,543,340,,sab,443,"10"" OSHIE/OGODA PIPELINE AT AKARAOLU",5.1011944,6.5085556,Ahoada-West,la,RI,State
+,NAOC,8/26/2012,cr,180,,,sab,444,"18"" Tebidaga/Brass pipeline at Oyeregbene, Bayesa State",4.5053333,6.0555833,Southern Ijaw,sw,BY,State
+,SPDC,8/18/2012,cr,398,357,,sab,445,"24""/28"" Trans Niger Pipeline at Mogho",4.640861,7.27775,Gokana,la,RI,State
+,NAOC,8/16/2012,cr,100,6,,sab,446,"18"" TEB/BRASS P/L @ LASUKUGBENE (11)",4.5090278,6.0400833,Southern Ijaw,sw,BY,State
+,SPDC,8/15/2012,cr,1076.1,726,,sab,447,"28"" NKPOKU - BOMU TRUNKLINE AT EJAMAH",4.758528,7.163167,Eleme,la,RI,State
+ph,SPDC,8/4/2012,cr,136,106,,eqf,448,"36"" NKPOKU-OGALE T/L NEAR NEW ELELENWO MANIFOLD",4.842639,7.116583,ELEME,la,RI,State
+,SPDC,8/2/2012,cr,242,30,,sab,449,"24"" NKPUKU - BOMU TRUNKLINE AT KIRA",4.730917,7.262111,Tai,sw,RI,State
+wa,SPDC,7/12/2012,cr,150,,,eqf,450,"8"" Ughelli West-Ups D/L @ Ekakpamre.",5.536722,5.879944,Ughelli-South,la,DE,State
+wa,SPDC,7/11/2012,cr,323,,pl,sab,451,"12'' KOKORI - ERIEMU P/L @ OKPARA, AGBARHA - OTOR UGHELLI NORTH.",5.5936833,6.0591833,Ughelli-North,"la,sw,iw",DE,State
+,SPDC,7/6/2012,cr,379.12,,,sab,452,"36""RUMUEPKE-NKPOGU T/L @ ALUU",4.926917,6.974667,Ikwerre,la,RI,State
+,NAOC,6/30/2012,cr,100,,,sab,453,"10"" CLOUGH CREEK/TEB P/L @ AZAGBENE",4.7911111,5.7550556,Southern-Ijaw,sw,BY,State
+,SPDC,6/23/2012,cr,106.27,90.3,,eqf,454,OPUKUSHI WELL 24T FLOWLINE,4.908833,5.804139,Ekeremor,sw,BY,State
+,NAOC,6/22/2012,cr,200,160,,sab,455,"10"" OSHIE/OGODA P/L @ IDU-EKPEYE",5.11,6.5447222,Ahoada-West,la,RI,State
+,NAOC,6/20/2012,cr,1500,,,sab,456,"8"" NIMBE SOUTH/OBAMA P/L @ SABATORU",4.6061389,6.3602222,Nembe,sw,BY,State
+,SPDC,6/18/2012,cr,326,256,,sab,457,"24"" NKPOKU-BOMU T/L AT NONWA",4.743917,7.244917,Tai,la,RI,State
+ph,SPDC,6/8/2012,cr,200.2,156,,sab,458,"36"" RUMUEKPE-NKPOKU T/L AT IBAA",4.95375,6.832972,Emuoha,la,RI,State
+,NAOC,6/7/2012,cr,100,70,,sab,459,TAYLOR CREEK 2L FLOWLINE @ KALABA,5.1474722,6.4425278,Yenagoa,la,BY,State
+,SPDC,6/6/2012,cr,561,442,,sab,460,"24"" NEMBE CREEK-CAWTHORNE CHANNEL PIPELINE AT SEGO MF",4.5003331,6.6053331,Akuku-Toru,sw,RI,State
+,NAOC,5/25/2012,cr,500,,,sab,461,"14"" AKRI EOC P/L @ ATAKU MUHU",5.6564444,6.66175,Ogba/Egbema/Ndoni,la,IM,State
+wa,SPDC,5/3/2012,cr,1271.72,,pl,sab,462,16'' ERIEMU - UPS P/L @ EKREJEBOR,,,,"la,sw",DE,State
+,SPDC,5/1/2012,cr,937.3,906.7,,sab,463,"16"" NUN-RIVER-KOLO CREEK TRUNKLINE @ AGUOBIRI",4.822583,6.1425,Southern Ijaw,sw,BY,State
+,SPDC,4/20/2012,cr,118.5,110,,sab,464,"24"" NCTL NEAR TORA MANIFOLD @ BASSAMBIRI",4.476611,6.482333,Brass,sw,BY,State
+,SPDC,4/15/2012,cr,493.2,288,,sab,465,"12"" IMO RISER TRUNK LINE @ OWAZA",4.95175,7.184917,Etche,la,AB,State
+,NAOC,4/1/2012,cr,1300,,,sab,466,"24"" OGBOINBIRI/OGODA P/L @ AGUOBIRI",4.8233056,6.1451944,Southern Ijaw,sw,BY,State
+,SPDC,3/26/2012,cr,176,147,,eqf,467,"10"" DIEBU CREEK D/L AT OPOROMA",4.791333,6.107083,Southern Ijaw,sw,BY,State
+,NAOC,3/22/2012,cr,140,,,sab,468,"18"" TEBIDABA/BRASS P/L AT IGBEMATORU 6A",4.5262778,6.0076944,Southern Ijaw,sw,BY,State
+wa,SPDC,3/21/2012,cr,306.14,,,sab,469,"12"" KOKORI ERIEMU DELIVERY LINE AT OTERI-AGBARRA",5.569667,6.059972,Ughelli-North,la,DE,State
+,SPDC,3/13/2012,cr,344,10,,sab,470,"16""NUN RIVER KOLOCREEK T/L @ ANGIAMAGBENE",4.807694,6.101944,Southern Ijaw,la,BY,State
+wa,SPDC,3/5/2012,cr,1271,,,sab,471,EKREJEBOR,5.522611,6.031972,Ughelli-North,la,DE,State
+,SPDC,2/29/2012,cr,291.3,269,,sab,472,"36"" RUMEEKPE-NKPOKU T/L @ OMUIGWE-ALUU",4.9435,6.94075,Ikwere,la,RI,State
+,NAOC,2/29/2012,cr,100,,,sab,473,"10"" CLOUGH CRK/TEBIDABA P/L AT IKEBIRI",4.6776111,5.9613056,Southern Ijaw,sw,BY,State
+,NAOC,2/24/2012,cr,100,,,sab,474,"18"" TEB/BRASS P/L @ IGBEMATORU",4.5238889,6.0116667,Southern Ijaw,sw,BY,State
+,SPDC,2/20/2012,cr,103.6,75,,sab,475,"6"" OBIGBO NORTH-OGALE D/L @ KOMKOM",4.84575,7.157333,Eleme,la,RI,State
+,SPDC,2/20/2012,cr,2754.96,,,sab,476,"28"" NKPOKU BOMU T/L @ ALETO-ELEME",4.812417,7.101528,Eleme,la,RI,State
+,SPDC,2/19/2012,cr,156.8,112,,sab,477,"36"" NKPOKU-BOMU T/L @ AGBONCHIA",4.83175,7.129417,Eleme,la,RI,State
+,SPDC,2/14/2012,cr,2025,,,sab,478,"12"" OGUTA-EGBEMA D/L AT OBIAKPU",5.573111,6.76075,Ohaji/Egbema,la,IM,State
+wa,NAOC,2/14/2012,cr,100,,,sab,479,BENEKU,5.6764167,6.5156111,Ndokwa-East,la,DE,State
+,SPDC,2/6/2012,cr,112.19,,,sab,480,"28"" NKPOKU-BOMU AT B-DERE",4.691028,7.254417,Gokana,la,RI,State
+,SPDC,2/1/2012,cr,120,115,,sab,481,"6"" OBIGBO NORTH P/L AT OGALE",4.820361,7.154222,Eleme,la,RI,State
+wa,SPDC,1/22/2012,cr,529.5,,pl,sab,482,KOKORI,5.628972,6.069556,Ughelli-North,,DE,State
+wa,SEPLAT,1/15/2012,cr,103,,fl,sab,483,OVHOR WELL 2 L/S F/L,5.8865556,5.6183611,Sapele,la,DE,State
+,NAOC,1/8/2012,cr,170,,,sab,484,"18"" TEBIDABA/BRASS P/L AT LASUKUGBENE",4.5119444,6.0433333,Southern-Ijaw,sw,BY,State
+,NAOC,12/31/2011,cr,1500,,,sab,485,"24"" OGODA BRASS P/L @ EMAGO-KUGBO",4.7252778,6.4304444,ABUA/ODUA,sw,RI,State
+,NAOC,12/27/2011,cr,1500,,,sab,486,"6"" OSIAMA/14"" OGBOINBIRI/TEBIDABA PL DIVERSION PIT",4.7860556,5.9760833,Southern Ijaw,sw,BY,State
+,SPDC,12/24/2011,cr,245.5,205.2,,sab,487,"24"" NCTL AROUND TORA MANIFOLD",4.476722,6.477083,Brass,sw,BY,State
+ph,NAOC,12/15/2011,cr,150,,,sab,488,"18"" TEB/BRASS P/L @ MBIKIBA (9)",4.4747222,6.1203889,Brass,sw,BY,State
+,NAOC,11/20/2011,cr,110,,,sab,489,"24"" OGBOINBIRI/OGODA P/L @ AGUOBIRI",4.8235,6.1459722,Southern Ijaw,sw,BY,State
+,NAOC,10/31/2011,cr,1430,,,sab,490,"24"" OGBOINBIRI/OGODA P/L AT AGUOBIRI (A)",4.8249444,6.1508333,Southern Ijaw,sw,BY,State
+,NAOC,10/31/2011,cr,1040,,,sab,491,"24"" OGBOINBIRI/OGODA P/L AT AGIAMAGBENE",4.8208889,6.1376389,Southern-Ijaw,sw,BY,State
+,SPDC,10/27/2011,cr,103,6,,sab,492,"10"" DIEBU CRK D/L @ OPOROMA",4.800056,6.108083,Southern-Ijaw,sw,BY,State
+,SPDC,10/13/2011,cr,345.75,,,sab,493,"12"" ADIBAWA-OKORDIA D/L AT IKARAMA",5.16575,6.4705,Yenagoa,la,BY,State
+ph,NAOC,10/10/2011,cr,130,,,sab,494,"6"" TAYLOR CREEK F/L @ KALABA",5.1333056,6.4546389,Yenegoa,la,BY,State
+,SPDC,10/5/2011,cr,152.02,135,,sab,495,"24"" ALAKIRI-BONNY T/L AT CREEK 6",4.527389,7.094111,Bonny,sw,RI,State
+wa,SPDC,10/4/2011,cr,134.28,72,pl,sab,496,28'' TF PIPELINE @ BATAN,5.544222,5.515889,Warri-South-West,sw,DE,State
+,NAOC,9/19/2011,cr,105,,,cor,497,"10"" CLOUGH CRK/TEBIDABA P/L AT AZUZUAMA",4.6850556,5.8969722,Southern Ijaw,sw,BY,State
+,NAOC,9/10/2011,cr,200,,,sab,498,"24"" OGBOINBIRI/OGODA PIPELINE @AGUOBIRI",4.8221111,6.1416111,Southern Ijaw,sw,BY,State
+,SPDC,9/5/2011,cr,155,135,,sab,499,"18"" ASSA-RUMUEKPE T/L AT ELELE-ALIMNI",5.097778,6.722278,AHOADA EAST,la,RI,State
+,SPDC,8/27/2011,cr,167.12,,,sab,500,"12"" IMO RIVER-OGALE T/L AT KOMKOM",4.878806,7.172556,Oyigbo,sw,RI,State
+,SPDC,8/21/2011,cr,120,84,,sab,501,"12"" ADIBAWA/OKORDIA P/L IKARAMA",5.167306,6.472556,YENAGOA,la,BY,State
+,SPDC,8/17/2011,cr,479.49,,,eqf,502,"24""NCTL AT TORA",4.482389,6.535167,NEMBE,sw,BY,State
+,SPDC,8/2/2011,cr,319.2,90,,sab,503,"14"" OKODIA-RUMUEKPE @ IKARAMA",5.153389,6.453,YENAGOA,sw,BY,State
+,SPDC,8/2/2011,cr,127.8,,,sab,504,"14"" OKODIA-RUMUEKPE @ IKARAMA",5.1465,6.458944,YENAGOA,sw,BY,State
+,NAOC,7/23/2011,cr,400,,,ome,505,SLUDGE TANK 19 AT BRASS TERMINAL,4.2987778,6.2474444,Brass,sw,BY,State
+,NAOC,7/11/2011,cr,200,,,sab,506,OSHIE 3T WELLHEAD,5.1121667,6.4714444,Ahoada West,la,RI,State
+,NAOC,7/1/2011,cr,100,,,sab,507,"10"" OSHIE-OGODA P/L @ IDU EKPEYE",5.1030278,6.5146667,Ahoada West,la,RI,State
+ph,SPDC,6/27/2011,cr,724.6,507.2,,sab,508,"12"" IMO RIVER P/L @ UZUAKU",4.917722,7.184444,Ukwa West,la,AB,State
+,SPDC,6/26/2011,cr,303.5,50,,sab,509,"8"" ISIMIRI D/L AT UMUAGHALA",4.876806,7.236944,Ukwa West,la,AB,State
+ph,NAOC,6/20/2011,cr,500,,,sab,510,"10"" OSHIE OGODA P/L @ IDU EKPEYE",5.1046667,6.52025,Ahoada-West,la,RI,State
+,SPDC,6/17/2011,cr,164.2,10,,sab,511,"12"" IMO RIVER II P/L @ ODAGWA",4.9812219,7.1699169,"ETCHE, EBERI/OMUMMA",la,RI,State
+,SPDC,6/16/2011,cr,138.5,103.3,,sab,512,"12"" IMO RIVER P/L @ OWAZA",4.9806939,7.1745281,Etche,la,AB,State
+,SPDC,6/14/2011,cr,862.6,126,,cor,513,"24"" NKPOKU BOMU TRUNKLINE @ AKPAJO",4.8431939,7.1158889,ELEME,la,RI,State
+,SPDC,6/10/2011,cr,195,165,,sab,514,"24"" NKPOKU-BOMU P/L @ BIARA",4.703556,7.279556,Gokana,la,RI,State
+ph,NAOC,6/1/2011,cr,146,,,sab,515,"14"" AKRI-EOC P/L @ OKWUZI ONELGA",5.5463056,6.7126944,OGBA/EGBEMA/NDONI,la,RI,State
+,SPDC,5/11/2011,cr,119.55,138,,sab,516,"10"" DIEBU CREEK/NUN RIVER D/L AT ONYOMA",4.746806,6.102167,Southern Ijaw,sw,BY,State
+,SPDC,5/9/2011,cr,150,102,,cor,517,"10"" EKULAMA PIPELINE AT FREETOWN",4.533528,6.683611,AKUKU-TORU,sw,RI,State
+,NDPR,5/6/2011,cr,120,,,sab,518,OSHIUGBOKOR OML 54,4.9548056,6.6749444,Ahoada East,la,RI,State
+ph,SPDC,4/9/2011,cr,429,300,,sab,519,ADIBAWA NE W4L F/L,5.255361,6.523694,Yenagoa,la,BY,State
+,SPDC,4/6/2011,cr,204,,,sab,520,"8"" ISIMIRI DELIVERY LINE @ UMUAGHALA",4.876333,7.238889,Ukwa West,la,AB,State
+,SPDC,3/26/2011,cr,165.9,60,,sab,521,"24""/28"" TNP @BODO WEST",4.597083,7.257806,GOKANA,sw,RI,State
+ph,SPDC,3/10/2011,cr,144.6,,,sab,522,"24"" TNP BONU BONNY @ K-DERE",4.659111,7.276556,Gokana,la,RI,State
+ph,SPDC,3/7/2011,cr,162.13,100,,sab,523,"24""/28"" TNP @ BODO WEST",4.564528,7.252833,Bonny,sw,RI,State
+,SPDC,2/9/2011,cr,4387.3,937,,sab,524,"20"" KOLO CREEK-RUMUEKPE T/L AT OGBOGOLO",4.946889,6.554806,Ahoada East,sw,RI,State
+ph,SPDC,2/9/2011,cr,100,140,,sab,525,"28"" TNP AT BODO WEST",4.573139,7.253833,Bonny,sw,RI,State
+wa,SPDC,1/28/2011,cr,519,,wh,sab,526,EGWA 1 - WELL 27,5.589111,5.43675,Warri-South-West,sw,DE,State
+,SPDC,1/21/2011,cr,118.2,117,,sab,527,"28"" BOMU-BONNY P/L AT BODO",4.594639,7.257556,Bonny,la,RI,State
+,SPDC,1/12/2011,cr,129,156,,sab,528,"28"" TNP AT BODO WEST",4.591639,7.257083,Bonny,sw,RI,State
+,SPDC,12/30/2010,cr,193,225,,sab,529,"8"" UMUECHEM D/L AT UMUOSELE",4.976194,7.025,Ikwerre,la,RI,State
+,SPDC,12/23/2010,cr,802.5,675,,cor,530,"24"" TNP AT AKPAJO",4.844111,7.114806,Obio/Akpor,la,RI,State
+wa,CHEVRON,12/17/2010,cr,600,,pl,sab,531,"Olero-Abiteye 18'' Trunkline, warri southwest L.G.A., Delta State.",5.7552778,5.2097222,Warri-South-West,sw,DE,State
+ph,NAOC,12/5/2010,cr,100,,,sab,532,"24"" OGODA/BRASS P/L AT EMAGO-KUGBO/IDEMA",4.6998972,6.4218667,Abua-Odual,la,RI,State
+ph,SPDC,11/18/2010,cr,192,,,sab,533,"10"" EGBEMA WEST D/L AT EGBEMA",5.563944,6.728917,Ohaji/Egbema,la,IM,State
+,SPDC,11/14/2010,cr,1115,2844,,sab,534,"20"" KOLO CREEK-RUMUEKPE T/L AT OGBOGOLO",4.9469169,6.5549439,Ahoada East,la,RI,State
+,SPDC,11/9/2010,cr,104,104,,eqf,535,"10"" EKULAMA D/L TIE-IN MANIFOLD AT SANDBARTH",4.507056,6.687,Akuku Toru,sw,RI,State
+,SPDC,10/20/2010,cr,175,100,,sab,536,"20"" KOLO CREEK/RUMUEKPE T/L AT EWEREWERE",4.9676975,6.6125817,,la,RI,State
+,MPN,10/15/2010,cr,134.5,,,ome,537,QIT Tank Farm/Tank 5003,4.5503167,8.0173333,,,AK,State
+wa,NAOC,10/13/2010,cr,400,,,sab,538,10'' KWALE/AKRI P/L @ AGWA ETITI,5.6408611,6.6174722,Ndokwa-East,la,DE,State
+wa,NAOC,10/10/2010,cr,600,,,,539,10'' KWALE/AKRI P/L @ AGWA ETITI,5.6822778,6.5940278,Ndokwa-East,la,DE,State
+,SPDC,9/25/2010,cr,1000,1455,,,540,"18"" ASSA/RUMUEKPE T/L AT AWARA",5.349528,6.795444,Ohaji/Egbema,la,IM,State
+,SPDC,9/22/2010,cr,335,130,,sab,541,"16"" NUNRIVER-KOLO CREEK T/L AT IGIEBIRI",4.828389,6.165611,Southern Ijaw,sw,BY,State
+,SPDC,9/14/2010,cr,450,900,,sab,542,"OLD 20"" KOLO CREEL/RUMUEKPE T/L AT OGBOGOLO",4.946775,6.5550806,,la,RI,State
+,NAOC,9/2/2010,cr,220,,,cor,543,"10"" CLOUGH CRK/TEBIDABA P/L AT AZUZUAMA 15",4.6866667,5.8953611,Southern Ijaw,sw,BY,State
+,NAOC,9/2/2010,cr,200,,,cor,544,"10"" CLOUGH CREEK/TEBIDABA P/L AT AZUZUAMA 14",4.6851111,5.8969444,Southern Ijaw,sw,BY,State
+,SPDC,8/22/2010,cr,167,495,,sab,545,"12"" ADIBAWA-OKORDIA AT IKARAMA",5.16575,6.470361,Yenagoa,la,BY,State
+,SPDC,8/19/2010,cr,300,150,,sab,546,"18"" ASSA-RUMUEKPE T/L AT AWARA",5.350917,6.795806,Ohaji/Egbema,la,IM,State
+wa,NAOC,8/19/2010,cr,180,,,sab,547,10'' IRRI/KWALE PIPELINE @ OFAGBE,5.6420556,6.6227222,Ogba/Egbema/Ndoni,sw,DE,State
+,SPDC,8/11/2010,cr,725,,,sab,548,"24"" CAWC-BONNY LOOPLINE AT ILOMATORU",4.5265,7.095694,Bonny,sw,RI,State
+,SPDC,8/11/2010,cr,2029,1733,,sab,549,CAWC-BONNY LOOPLINE AT KALIBIAMA,4.484306,7.149806,Bonny,sw,RI,State
+,SPDC,8/10/2010,cr,108,145,,sab,550,"18"" ASSA-RUMUEKPE T/L AT AWARA",5.356583,6.797111,Ohaji/Egbema,la,IM,State
+,SPDC,8/5/2010,cr,1510,721,,sab,551,"28"" BOMU/BONNY TNP AT PATRICK WATER SIDE",4.595694,7.257667,Bonny,sw,RI,State
+wa,CHEVRON,7/24/2010,cr,740,,pl,sab,552,"Olero-Abiyeye 18'' Trunk pipeline, Warri Southwest L.G.A., Delta State.",5.7696167,5.2034,Warri-South-West,sw,DE,State
+,NAOC,7/10/2010,cr,220,,,sab,553,"24"" OGODA/BRASS AT AMUROTO",4.7834417,6.4500528,Abua/Odual,sw,RI,State
+,NAOC,6/26/2010,cr,800,,,sab,554,"18"" OBAMA/BRASS P/L RISER AT BASOKIRI",4.5744611,6.2750278,Nembe,sw,BY,State
+,SPDC,6/24/2010,cr,260,225,,sab,555,"28"" RUKPOKU-BOMU BONNY TNP AT B.DERE",4.697667,7.248972,Gokana,la,RI,State
+,NAOC,6/20/2010,cr,100,,,sab,556,"24"" OGODA BRASS PIPELINE AT OZOCHI",4.96525,6.5108056,Ahoada West,la,RI,State
+wa,CHEVRON,5/27/2010,cr,593.86,593.86,pl,sab,557,Dibi-Aqbiteye pipeline,,,Warri-South-West,sw,DE,State
+,SPDC,5/20/2010,cr,180,30,,sab,558,"10"" DIEBU CRK D/L AT OPOROMA",4.79075,6.107028,Southern-Ijaw,sw,BY,State
+wa,CHEVRON,5/16/2010,cr,227,227,pl,sab,559,"18"" Abiteye- Escravos pipeline, Warri Southwest L.G.A., Delta State.",5.6447222,5.2411111,,sw,DE,State
+,NAOC,5/12/2010,cr,150,,,sab,560,"14"" AKRI/EOC P/L AT MMAHU",5.5483889,6.7120556,Ohaji/Egbema,la,IM,State
+,NAOC,5/5/2010,cr,1200,,,sab,561,"24"" OGODA/BRASS P/L AT OBODHI",4.9663472,6.5139222,Ahoada West,la,RI,State
+,MPN,5/1/2010,cr,232,,,cor,562,Idoho PP OML:68,4.3645,7.9995,,of,AK,State
+ph,NAOC,4/25/2010,cr,1000,,,sab,563,"24"" OGODA/BRASS P/L AT EMAGOKUGBO 3",4.71333,6.43,Abua-Odual,la,RI,State
+ph,NAOC,4/25/2010,cr,1500,,,sab,564,"24"" OGODA/BRASS PL AT EMAGO-KUGBE (2)",4.7022222,6.4325,Abua-Odual,la,RI,State
+,SPDC,3/18/2010,cr,150.8,140,,sab,565,"10"" DIEBU CREEK /NUN RIVER D/L AT OPOROMA",4.779583,6.105778,Southern Ijaw,sw,BY,State
+,NAOC,3/11/2010,cr,100,,,cor,566,"10"" CLOUGH CRK/TEBIDABA AT AZUZUAMA",4.6658056,5.9136944,Southern Ijaw,sw,BY,State
+,NAOC,3/8/2010,cr,300,,,cor,567,"10"" CLOUGH CREEK/ TEBIDABA P/L @ AZUZUAMA",4.6823056,5.8995833,Southern Ijaw,sw,BY,State
+,NAOC,3/3/2010,cr,800,,,sab,568,"18"" TEBIDABA/BRASS P/L AT MBASIKIRI (I) (M4 RISER)",4.4053333,6.2617639,Nembe,sw,BY,State
+,NAOC,2/9/2010,cr,100,,,sab,569,"14"" OGBOINBIRI/TEBIDABA P/L AT KEME-EBIAMA I",4.7905,5.9731389,Southern Ijaw,sw,BY,State
+,NAOC,2/9/2010,cr,100,,,sab,570,"14"" OGBOINBIRI/TEBIDABA P/L AT KEME-EBIAMA 3",4.7895833,5.9739444,Southern Ijaw,sw,BY,State
+,NAOC,2/1/2010,cr,1020,,,sab,571,"8"" NEMBE SOUTH/OBAMA P/L AT SABATORU 1",4.6036667,6.33375,Nembe,sw,BY,State
+,NAOC,1/26/2010,cr,1100,,,sab,572,"8"" NEMBE SOUTH P/L AT KIMINIM IGAKUBURI",4.6018611,6.3120556,Nembe,sw,BY,State
+,NAOC,1/23/2010,cr,100,,,cor,573,"10"" CLOUGH CREEK/TEBIDABA AT AZUZUAMA(1)",4.6896111,5.8979444,Southern Ijaw,sw,BY,State
+,NAOC,1/18/2010,cr,120,,,sab,574,"18"" TEBIDABA/BRASS F/L@ OYEREBGENE(2)",4.5051944,6.0559167,Southern Ijaw,sw,BY,State
